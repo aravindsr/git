@@ -20,6 +20,9 @@ batch_size=64
 train_set=datasets.MNIST(root='./data/mnist/',train=True,transform=transforms.ToTensor(),download=True)
 test_set=datasets.MNIST(root='./data/mnist/',train=False,transform=transforms.ToTensor())
 
+
+
+
 img=torchvision.utils.make_grid(test_set[0][0])
 #img = img / 2 + 0.5     # unnormalize
 #npimg = img.numpy()
@@ -33,6 +36,7 @@ test_loader=torch.utils.data.DataLoader(dataset=test_set)
 
 
 examples=enumerate(test_loader)
+
 batch_id,(example_data,labels)=next(examples)
 print(example_data.shape)
 
@@ -123,5 +127,4 @@ for i in range(6):
     
 fig
 
-        
         
