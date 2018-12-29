@@ -10,6 +10,7 @@ import numpy as np
 import torch
 from torch.utils.data import Dataset,DataLoader
 import torch.nn.functional as f
+import pickle
 text='hH'
 
 '''
@@ -20,7 +21,7 @@ for char in text:
    
 
 print(ar)
-''' 
+
 
 class genderdataset(Dataset):
     def __init__(self):
@@ -52,6 +53,13 @@ class genderdataset(Dataset):
     
 dataset=genderdataset()
 print(len(dataset))
-
+opfile=open('./data/gender/genderdb.txt','wb')
+pickle.dump(dataset,opfile)
+opfile.close()
+'''
+#dataset already created earlier, will be loaded
+ip=open('./data/gender/genderdb.txt','rb')
+dataset=pickle.load(ip)
+print(len(dataset))
 
         
