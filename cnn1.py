@@ -42,6 +42,7 @@ class Model(nn.Module):
         
     def forward(self,x):
         in_size=x.size(0)
+        print(x,x.size(),in_size)
         out1=f.relu(self.mp(self.conv1(x)))
         out2=f.relu(self.mp(self.conv2(out1)))
         out3=out2.view(in_size,-1) #flattening
@@ -83,9 +84,9 @@ def test():
         100. * correct / len(test_loader.dataset)))
         
 
-for epoch in range(1,10):
+for epoch in range(1,2):
     train(epoch)
-    test()
+    #test()
         
 
     
