@@ -1,0 +1,615 @@
+id	handle	name	location	followers_count	friends_count	tweets_count	url	description
+946383697237893120	StudyatZJNU	Zhejiang Normal University	Zhejiang	130	6	56	https://t.co/HhwtOuhrry	Official Zhejiang Normal University account for everything you need to know about Undergraduate and Postgraduate Degrees at ZJNU.
+26014305	UAHuntsville	UAH	Huntsville, AL	9159	278	7749	http://t.co/iSjBZsIG98	The University of Alabama in Huntsville
+3313774740	tmdushogi	東京医科歯科大学棋道部(囲碁将棋部)＠第3回医科歯科杯開催！	湯島キャンパス M&Dタワー	941	940	787	https://t.co/1dUxVYcKgx	東京医科歯科大学(Tokyo Medical and Dental University)棋道部の公式アカウントです。全日本医科学生囲碁将棋連盟(@zenishou)主管校 首脳(@professor_nuo) 御問い合わせは下記HPもしくはDMにて。 関東圏囲碁将棋クラスタの方お待ちしております！
+357375505	TPUnews_en	TPU - Tomsk	Tomsk, Russia	475	33	794	http://t.co/jLm2IrD8hx	Official account of Tomsk Polytechnic University. English version of @TPUnews |
+http://t.co/ajvi36Xg
+17152842	unav	Universidad de Navarra	Spain	43928	893	12408	https://t.co/Tjj611yfDx	Universidad de Navarra. Research University. Cinco campus. Grados y másteres oficiales. Ganas de saber, compartir y vivir.
+302901861	IPN_MX	IPN	México	814243	105	16442	https://t.co/jjTH0gO66m	El Instituto Politécnico Nacional es la institución educativa laica y gratuita del Estado, rectora de la educación tecnológica pública en México.
+14926825	WWU	WWU	Bellingham, WA	22075	2138	26028	https://t.co/rY54R0fM5X	15,000 students, 160 academic programs, a beautiful campus in an incredible community.
+20068192	KingstonUni	Kingston University	Kingston upon Thames, London	44676	113	10192	https://t.co/h27VvMF5Gi	Official news and updates from Kingston University London
+90258002	sfiscience	Santa Fe Institute	Santa Fe, NM	30814	1025	3980	http://t.co/FnaX5cP5lx	Independent research and education center pioneering the science of complex adaptive systems since 1984. 
+
+#complexity #systems #evolution #information #science
+400881926	harteltibor	Tibor Hartel	Cluj-Napoca	1309	634	4044	None	Assoc. Professor Babes-Bolyai University, Cluj-Napoca, Romania. Wood-pastures, social-ecological systems, cultural landscapes
+20770215	ClarksonUniv	Clarkson University	Potsdam, New York, U.S.A.	13234	3428	9540	https://t.co/zqmx5e73tt	#ClarksonU educates the leaders of the global economy. 1 in 5 alumni already leads as an owner, CEO, VP or equivalent senior executive of a company. #LetsGoTech
+23472546	CLE_State	Cleveland State University	Cleveland, OH	15270	1712	16698	https://t.co/YIB34qH9FH	Public, urban research university offering #EngagedLearning via 200+ programs. Among U.S. News & World Report's Best Colleges. #CLEstate #ImAViking
+17433026	ChapmanU	Chapman University	Orange, California	16909	621	8697	https://t.co/3B4jE53wlZ	Located in Southern California. Home to innovators, leaders, and creators. Tweeting #ChapmanU, #PantherPride, #ChapmanStories.
+930746962705616907	Benchimolium	Jonathan Benchimol	Jerusalem	583	1026	341	https://t.co/a7Z4UegCV0	Research Economist @ Bank of Israel. Research Associate @ Federal Reserve Bank of Dallas, Queen’s University and Henan University. All views are my own.
+735387546	hquwsc	Huaqiao University	Fujian, PRC	27	17	1	http://t.co/h8wytIC8yu	
+854171762933682176	Ningbo_Uni	Ningbo University	Zhejiang, People's Republic of China	91	111	60	https://t.co/D2QNzpEf6S	Official account of Ningbo University
+139441881	plock25	Rafael Gomes	Tangará da Serra/MT	410	361	16350	http://t.co/XGnuiZWxWO	Jornalista, Mestre em Comunicação e Cultura Midiática pela Universidade Federal de Santa Maria (UFSM) e Professor Interino de Jornalismo na UNEMAT/MT
+1911644054	VincentCMueller	Vincent C. Müller		620	220	2356	https://t.co/fN4LcI2dv6	- philosophy: ethics and computing matter - Anatolia College/ACT & University of Leeds
+27147528	HowardU	Howard University	Washington, DC	72913	963	20716	https://t.co/LNzRUVrNO3	Howard University is a research intensive, culturally diverse, historically black university founded in 1867 #HowardU • #HUBison • @HowardUNews • @HowardUAlumni
+16480660	LGuchi	Lauren Michi	London, Paris, Portland	131	377	663	https://t.co/V9240rBOao	PhD student at LSHTM and Nagasaki University. Health systems researcher focusing on TB and diabetes services in the Philippines. All views my own.
+115650900	unirioja	Universidad de La Rioja	Logroño · La Rioja · España	24235	1903	17149	http://t.co/JxHZR6ICY1	Cuenta oficial de la Universidad de La Rioja    ·   Campus público de Excelencia Internacional · Campus Iberus
+535189337	MuGOHER	MUHAMMAD USAMA GOHER	Qinhuangdao, China	2038	1424	54221	https://t.co/7xNHp9OqQp	Software Engineer| Freelancer| Wants to be an Entrepreneur| Yanshan University| Chinese language HSK 5 #TeamPMLN
+903918793	JZachHollo	J. Zach Hollo	Taipei City, Taiwan	558	900	4461	https://t.co/P5kwTd1ein	Fulbright master's student at National Chengchi University. Eyes on #Taiwan and #China.  Roving journalist, occasional filmmaker. Medill grad.
+222307037	kinkidaigakuPR	近畿大学	大阪府東大阪市	25007	247	11367	https://t.co/ORQKVSFkwD	近畿大学のTwitter公式アカウントです。気象警報による休講情報や、お得なランチ情報など、大学に関する情報を発信していきます。マグロに関するツイート多め。学生のみなさんの相談に乗りたいと思っていますので、お気軽にお話かけください。
+15371292	TCU	TCU	Fort Worth, Texas	146231	13181	12285	http://t.co/A5MITBR0Yj	Our mission is to educate individuals to think and act as ethical leaders and responsible citizens in the global community.
+351526708	UniversiteEge	Ege Üniversitesi	Bornova, İzmir	108842	104	1730	http://t.co/wt8gbdXvEm	Ege Üniversitesi Resmi Twitter Hesabı (Official Twitter Account of Ege University)
+
+http://t.co/hCYrbmb1sH
+http://t.co/S16R7yF340
+95713803	FollowStevens	Stevens Institute of Technology	Hoboken, NJ	9878	937	7379	https://t.co/5hMTdU8R30	Stevens Institute of Technology, the Innovation University®, is a premier, private research university in Hoboken, N.J., just minutes from New York City.
+34391787	LLUHealth	Loma Linda U. Health	Loma Linda, CA	10364	327	5236	http://t.co/FgPPr3BSYd	LLUH includes 8 professional schools, 6 hospitals & 900+ faculty physicians in So Cal. 
+Many Strengths. One Mission.  #GiveVision2020: https://t.co/q6J4bZCvpR
+1019347789	TMU_PR	首都大学東京 広報担当	〒192-0397 東京都八王子市南大沢1-1	12720	5	2026	http://t.co/lA6dNGRi	首都大学東京公式アカウントです。本学へのご質問やご意見等にはこのアカウントでは対応しておりませんのでご了承ください。
+37967602	GoJacksFB	SDSU Football	Brookings, South Dakota	20534	408	13655	https://t.co/YER2SNR2Xo	Official Twitter account of South Dakota State University Football | 2016 MVFC Champs | ‘17 ‘18 National Semifinalists | #LastPlay #GoJacks | https://t.co/V6ovoSFJBN
+31131608	LATech	Louisiana Tech University	Ruston, LA	17457	273	10274	https://t.co/XJEVts90xw	Official account for Louisiana Tech University, a tier one research university & home of the Bulldogs, proudly calling #RustonLA home since 1894.
+851186882876780544	MSE_UJN	University of Jinan	中华人民共和国	40	289	40	https://t.co/9eZdfycpme	Established in 1948, University of Jinan is a higher education institution located in the large city of Jinan Shandong. 
+https://t.co/9eZdfycpme
+2310368363	BartDingenen	Bart Dingenen	Belgium	2358	593	1162	None	Sport physiotherapist - PhD - Sport injury prevention and rehabilitation - Hasselt University - Motion to Balance Rehab Training & Performance Center
+1171758416	UniLUT	LUT University 🚀	Lappeenranta & Lahti, Finland	6447	4884	3468	https://t.co/4dR5iAxnrc	Clean energy and water, a circular economy and sustainable business are the key challenges of humankind to which LUT seeks solutions. #unilut
+18425738	carlesdijous	Carles Dijous (AAlb)	Barcelona, Catalonia	9209	5901	289492	http://t.co/LID7q7OB4C	Colaborador docente UOC (Universitat Oberta de Catalunya). ICT observer. More: https://t.co/8QZHvDGVlK
+36052628	BallState	Ball State	Muncie, Indiana	43777	398	6024	https://t.co/9hSYmKWSBn	The official Twitter account of Ball State University. Go Cardinals! #BallState #WeFly #ChirpChirp
+2334126996	EnxQuim_USC	Enxeñaría Química	Santiago de Compostela	1498	518	8124	http://t.co/qcbHYJOB9I	Dpto de Enxeñaría Química/Ingeniería Química/Chemical Engineering Universidade de Santiago de Compostela (USC)
+265605034	smmhashemi	Seyed M. M. Hashemi		86	87	14	None	Assistant Professor, Department of Immunology, School of Medicine, 
+Shahid Beheshti University of Medical Sciences, Tehran, Iran
+265373774	Gazi_Universite	Gazi Üniversitesi	Teknikokullar, Ankara, TÜRKİYE	299217	62	5618	http://t.co/MZ1LJ6ghky	Gazi Üniversitesi resmi Twitter hesabı. / Official Twitter account of Gazi University.
+67497155	Fresno_State	Fresno State	Fresno, CA	71591	2169	60145	https://t.co/TM0QoxgFhM	📚 Official California State University, Fresno | ❤️ #FresnoState | 💙 Pres. @JosephICastro | 🐶 #GoDogs | 🐾
+762288787	UNLincoln	University of Nebraska-Lincoln	Lincoln, Nebraska	36706	587	20645	https://t.co/Vto93N6JQQ	The University of Nebraska–Lincoln, a top tier research & Big Ten university. Home of the Huskers. For news: @NebToday #UNL #NUforNE
+29515029	SDCoyotes	South Dakota Coyotes	Vermillion, S.D.	15989	416	13332	https://t.co/G3Gi47xuEZ	The official Twitter account of the University of South Dakota Coyotes. #WeAreSouthDakota #GoYotes
+333649950	LeonesNegrosCF	Leones Negros UdeG	Guadalajara, Jalisco, México.	193881	106	32482	https://t.co/V37fnxcsxl	Respeto. Honestidad. Ética. Actitud Positiva. Trabajo en Equipo. Valores de nuestra casa de estudios. Universidad de Guadalajara
+125338183	UE_Katowice	UE Katowice	Poland, Katowice, 1 Maja 50	2075	263	1973	https://t.co/HHP8BCyTsN	University of Economics is one of the biggest and oldest business schools in Silesia, Poland. #joinUEKatowice #wybieramUE
+14414574	swarthmore	Swarthmore College	Swarthmore, PA	9038	899	10216	http://t.co/caueKj6vXR	The official Twitter account of Swarthmore College, a highly selective college of liberal arts and engineering.
+19713974	insadelyon	INSA de Lyon	Lyon - France	11034	701	12084	http://t.co/k41P5UjL6d	Institut National des Sciences Appliquées de Lyon, une des plus grandes écoles d'#ingénieurs françaises, pluridisciplinaire et internationale
+152976724	kuyayinlari	KÜY	Koç Üniversitesi, İstanbul	4349	171	779	http://t.co/RsfDEugpD2	KÜY (Koç Üniversitesi Yayınları) - Dünyayı sorgulayanlar için, dünyanın bilimi.
+29291785	UMMCnews	U of Miss. Med. Ctr.	Jackson, Mississippi	7702	1236	4916	http://t.co/JEtZAcWChP	Education | Research | Healthcare - The University of Mississippi Medical Center is the state's only academic medical center. Working to create #AHealthierMS.
+34917842	UnivAngers	Université d'Angers	Angers	12120	434	9268	https://t.co/vjMQr6JT8L	L'UA est la première en France pour son taux de réussite en licence. #UArecherche #UAformation #UAsport #UAculture #UAinternational #UApro
+15635684	urichmond	University of Richmond	Richmond, Virginia	22103	1255	10328	https://t.co/nhD7cfuKaZ	The official Twitter of the University of Richmond. #URichmond #SpiderPride
+608929606	uniofmalta	University of Malta	Msida, Malta	3346	447	1375	http://t.co/5a8Yr6A7TJ	
+120256278	TigresOficial	Club Tigres Oficial	San Nicolas de los Garza, NL	1672438	30	58515	https://t.co/EUwJLkWnu0	Twitter Oficial de Club Tigres UANL Sinergia Deportiva s.a. de c.v. https://t.co/hUGBr7bHRT https://t.co/EyJqQdwzQn
+189349553	CAUS	Council of Alberta University Students	Alberta	1507	915	1900	https://t.co/4Px60s1aeX	Representing 100,000+ undergrad students at: University of Alberta, University of Calgary, University of Lethbridge, Mount Royal University, MacEwan University
+14389790	UQAM	UQAM | Université du Québec à Montréal	Montréal, Québec, Canada	30167	426	12600	http://t.co/MlDYzx9auv	L'Université du Québec à Montréal (#UQAM) offre plus de 300 programmes d'études en plein cœur du centre-ville et est fermement engagée en recherche et création.
+725018024634421248	drmilmed	drmilmed	Bethesda, MD	313	209	1438	https://t.co/wkmid1B3F9	America's Medical School at the Uniformed Services University of the Health Sciences--we are the Office of Recruitment and Admissions!
+42889581	Wellesley	Wellesley College	Wellesley, Massachusetts	16683	743	7773	http://t.co/nhg9WsaqUr	Official account of Wellesley College, a leader in providing an excellent liberal arts education for women since 1875.
+29526652	IdahoStateU	Idaho State University	Pocatello, Idaho	10488	1316	7744	https://t.co/8iuaJ16jzw	The official Twitter account for Idaho State University. #IdahoState
+219748068	PhilanderSmith	Philander Smith	Little Rock, Arkansas	2179	360	1541	https://t.co/bELdIYSaPc	HBCU, United Methodist-affiliated, on a mission to to graduate a new generation of leaders determined to change the world for the better. #PhilanderForward
+592813680	CQUni	CQUniversity	Australia	5775	1750	8461	http://t.co/TqStdoovTG	Australia's most engaged university.
+95056074	UTJeanJaures	UT Jean Jaurès	Toulouse	8477	790	2622	https://t.co/ONTLjL8EHi	Cpte officiel #UT2J. #Université #Arts #Lettres #Langues #SHS. 30K étu, 5 UFR, 6 instituts, 2 écoles et 24 labos. #Formation #Recherche #Innovation  #Culture
+78908122	Paris_Dauphine	Univ Paris-Dauphine	Paris	15922	530	9414	http://t.co/egF1ZmPkGT	Spécialisée dans les sciences des organisations et de la décision : son éventail disciplinaire est large mais cohérent. 
+Membre fondateur de l'Université PSL.
+1375155224	GasantAbarder	Gasant Abarder	Cape Town, South Africa	6481	1000	48864	https://t.co/41Ppsfmv6r	Proudly Cape Flats. Former Cape Times and Cape Argus editor. M&G 200 Young South African 2013. UWC Media, Marketing and Communications Manager. Man United!
+25922185	INSEADKnowledge	INSEAD Knowledge	France/Singapore/Abu Dhabi	53527	260	11995	http://t.co/ALeJzc5xBo	The expert opinion and management insights portal of @INSEAD, The Business School for the World.
+126752701	mylakehead	Lakehead University	Thunder Bay | Orillia	7462	4069	6177	https://t.co/pybqOxfhVQ	Over 60+ Programs in 10 Faculties of Study
+40088191	wlv_uni	Uni of Wolverhampton	Wolverhampton, UK	31719	976	19529	http://t.co/Fr9D8OdDby	Follow us for news, photos, competitions and regular goings-on at the University of Wolverhampton.
+58639365	KellyWhiteside	Kelly Whiteside	Montclair, NJ	105413	1325	4475	None	Montclair State University prof, @columbiajourn, USA Today, Newsday, Sports Illustrated alum,  New York Times contributor
+16082469	fwilcher	Francine Terrell	Washington D.C. Metro Area	260	2362	120	None	Talent Management Professional @ University of Maryland Medical System for the Capital Region | Career Development Consultant | Style Sleuth
+73197759	TU_Ilmenau	TU Ilmenau	Ilmenau, Thüringen, Germany	3445	357	543	http://t.co/lprNHMbD6P	Die Technische Universität Ilmenau ist DIE technische Universität in Thüringen mit 43 Studiengängen und mehr als 6.000 Studierenden.
+
+http://t.co/Mc2AwPVs4M
+202350999	uhmanoa	University of Hawaii at Manoa	Honolulu, HI	26805	99	8484	https://t.co/lydXv4l4Yu	🌴🎓 Official Account. Just a little aloha from #UHManoa. #ExploreUHM #FacesOfManoa #MakeManoaYours #GoBows 🌈
+8511332	UniWestminster	University of Westminster	London, England	32314	682	13137	http://t.co/nQPG0Rl5Ym	University of Westminster is a diverse, dynamic international education institution situated in London. Say hi on Twitter and Instagram with #HelloWestminster
+113262942	burgersandsushi	Greg de St. Maurice		428	729	3356	None	Cultural anthropologist, food studies & Japanese studies researcher. Associate Professor at Osaka City University.
+69084023	tamusystem	Texas A&M System	College Station, TX	14418	1784	6605	http://t.co/CpBbmyMJj6	Official Twitter account for The Texas A&M University System - a network of 11 universities, 7 state agencies, and a health science center.
+34716259	TulsaHurricane	TulsaHurricane	Tulsa, Okla.	21916	187	9758	https://t.co/z0hqDAD9B3	The official twitter account of The University of Tulsa Athletics. Home of CHAMPIONS! 👑🌀
+998921762866974730	WichitaStatePD	Wichita State University Police Department	Wichita, KS	2927	1399	2077	https://t.co/m5mRFBBFhE	This is the official account of the Wichita State University Police Department @wichitastate This page is not monitored 24/7.  Call (316) 978-3450
+57465196	NMTNews	New Mexico Tech News	Socorro, New Mexico	810	9	528	http://t.co/hyJxbmpbnr	New Mexico Institute of Mining and Technology News Outlet
+897865610	EmmaDepledge1	Dr Emma Depledge	Neuchâtel, Switzerland	2155	2217	1580	None	Assistant Professor of Early Modern English Literature at the Université de Neuchâtel. Works on 
+Shakespeare, book history, mock heroics & pirate publications
+54637018	kennesawstate	Kennesaw State	Kennesaw, GA	61891	1747	17069	http://t.co/CHgOWul0ts	Official Twitter account for Kennesaw State University, the third-largest university in Georgia. Established in 1963. 🎓📓 #kennesawstate
+27820538	jacobs_bremen	Jacobs University	Bremen, Germany	3081	819	3495	https://t.co/tSbBkDAc0M	Inspiration is a place! The place is Jacobs University.
+Impressum: https://t.co/6TdqBtR3yv
+151467226	uonbi	UniversityofNairobi	Nairobi	70077	300	7263	http://t.co/UmM4gRt1jZ	The University of Nairobi is a center of Academic and Research excellence recognized in the African continent and beyond.
+4645342272	NuclearWolf79	Nuclear Wolf	Mexico	682	773	4356	None	Narrative and video game researcher and professor at Universidad Autónoma Metropolitana, Azcapotzalco.
+48073090	uofsandiego	USD	San Diego, CA	13108	127	17081	http://t.co/bb9SsppWqW	University of San Diego // The youngest private university among the top 100 in the nation. // https://t.co/n2S2AiH889
+22078875	pucp	PUCP	ÜT: -12.0739,-77.083504	594496	5215	18649	http://t.co/s4nnNyI87G	Twitter oficial de la Pontificia Universidad Católica del Perú
+55078954	SOAS	SOAS Uni of London	University of London	35582	950	7798	https://t.co/hEg6VHPEmL	Inspiring the next generation to develop ideas for a fairer world. Follow us for tweets about SOAS life, news and events. #WeAreSOAS
+42895967	FHQ	Josh Putnam		9573	443	21852	http://t.co/3Vo01uAHaW	Lecturer in the Department of Public & International Affairs at the University of North Carolina-Wilmington who specializes in campaigns & elections.
+1076310067211726848	TMUCON1	College of Nursing, Taipei Medical University	Taipei City, Taiwan	17	11	16	None	The CON offers a full range of nursing training programs, from bachelor to doctoral programs, and provides undergraduate and graduate students.
+5141841	HofstraU	Hofstra University	Hempstead, NY	24162	1242	19916	https://t.co/Z3f51pVdbh	The official Hofstra University Twitter account, maintained by the Office of University Relations. News, events and updates about Hofstra.
+18058364	PaceUniversity	Pace University	Westchester and NYC	14864	273	26957	https://t.co/pjnHM1j1lk	The official Pace University Twitter feed, where we keep you informed about all things happening on campus. #PaceU
+193425836	PeriodismoUNLP	Periodismo UNLP	La Plata, Argentina	11319	154	3945	http://t.co/Y4Onn4NbbB	Facultad de Periodismo y Comunicación Social de la Universidad Nacional de La Plata
+852011455700283392	Tokai_Univ_	東海大学(公式)		3950	40	852	https://t.co/pK0CNitdJA	東海大学が運用している公式Twitterアカウントです。イベント情報やお知らせ、その日にあった出来事など！都度更新していきます！個別のご質問等には対応しておりませんので予めご了承ください。
+972782565944889344	CivEngUTH	Civil Eng. Dep., University of Thessaly	Βόλος, Ελλάς	58	76	89	https://t.co/bV8IA5hrti	Department of Civil Engineering, University of Thessaly, Greece
+93863748	lvuniversity	University of Latvia	Latvia, Riga	1113	30	441	https://t.co/F8EDZEYbSV	The University of Latvia with its 15 200 students is one of the largest comprehensive and leading research universities in the Baltic States.
+12692962	palacios49	Marcos Palacios	Salvador, Bahia	2990	290	5139	None	Professor Titular de Jornalismo, Universidade Federal da Bahia (Brasil) e Professor Visitante na Universidade da Beira Interior (Portugal)
+275979903	wku	WKU	Bowling Green, KY	19717	530	11248	https://t.co/q6Hserjbjc	Welcome to Western Kentucky University, where the Spirit Makes the Master!
+860475001	omer_uzunagac	Ömer Uzunağaç | عمر اوزون آغاچ	İstanbul, Türkiye	133	524	453	https://t.co/Vx5usbvAOG	Marmara Üniversitesi, Ortaçağ Tarihi Doktora Öğrencisi | Ferdowsi University of Mashhad, The International Center for Teaching Persian Language
+145637517	USI_university	USI University	Svizzera italiana	4661	1258	6730	http://t.co/kyxX9lnIof	News and events from the Università della Svizzera italiana (USI), Lugano and Mendrisio Campus.
+Tweets from @Gio_Zavaritt and the team press@usi.ch
+1562668446	abdirashidmd	Abdirashid M. Dahir	Seoul	10563	908	11376	https://t.co/X31xjkzkUi	KGSP Scholar, University of Seoul
+19115174	hwasser	Herman Wasserman	Cape Town, South Africa	3415	837	3953	https://t.co/tY9W7ChLq2	Professor of Media Studies, University of Cape Town, South Africa. Editor: African Journalism Studies. Opinions are my own. RTs not endorsements.
+17289530	M_Ignatieff	Michael Ignatieff	Hungary 	91223	8214	1242	https://t.co/JNXaL1AT4u	Rector and President ,Central European University ( CEU/ KEE ) Budapest ,Hungary . Former Leader of @Liberal_Party of Canada.
+57185317	usfca	University of San Francisco	San Francisco, CA	12924	1021	13373	http://t.co/ImqGwjVfkG	See what's happening at the University of San Francisco. 
+Tag #USFCA to be featured. 
+Contact: social@usfca.edu
+2841837582	tomobtrb	tomohiro takahashi	Earth⇄M78 galaxy 	497	243	6922	None	Bass-trombone/Yamagata symphony orchestra, Japan：guest associate professor/Yamagata university：a part time teacher/Yamagata north high-school
+637225946	duqedu	Duquesne University	Pittsburgh, PA	10685	388	8402	https://t.co/ndwVfkZw3K	The official Twitter of Duquesne University. One of the largest, most comprehensive Catholic universities in the U.S.
+1957419540	EBalkowiecIskra	Ewa Bałkowiec-Iskra		320	738	5846	None	CHMP and Scientific Advice WP member (EMA). The Office for Registration of Med Products. Medical University of Warsaw. Pharmacologist,Psychiatrist, MD, PhD,DSc.
+989476236178153475	MediaCell_IITR	Indian Institute of Technology Roorkee		23	1	2	None	
+141264560	UFPel	UFPEL	Pelotas, RS	9307	12	22373	http://t.co/pZbPwooxit	Twitter oficial da Universidade Federal de Pelotas (UFPel).
+66571267	UniJaveriana	Pontificia Universidad Javeriana	Bogotá, D.C., Colombia	92546	4009	10850	https://t.co/8GDjQ8SYhE	| Vigilada MinEducación | Fundada por la Compañía de Jesús en 1623.
+14586296	CofC	Coll. of Charleston	Charleston, SC	42966	713	17547	http://t.co/aMemz25YhL	Official twitter account for College of Charleston. We're a top-notch university in a coastal city without peer. All #CofC social media: http://t.co/mOCyiRhSC1
+4263374117	Jp_Joonpio_HONG	Jp (Joon Pio) Hong		1565	283	1207	None	professor plastic surgery                asan medical center university of Ulsan.       seoul, korea
+106059177	MakerereU	Makerere University	Kampala, Uganda	69834	104	9505	https://t.co/mo4IUClgoe	One of the oldest and most prestigious Universities in Africa. A world class institution for academic excellence, research and innovations.
+76036926	UniSassari	University Sassari	Sassari, Italy	2346	3	642	None	Università degli Studi di Sassari
+856872085	BRIClanguages	BRIC Language System	NYC, Shanghai, Rio, Mexico	1922	1910	2915	http://t.co/0iB270begF	Mandarin #Chinese #Spanish Brazilian #Portuguese #language courses featured in NY Post, US News, CCTV, Huffington Post. Partner of  #Shanghai Normal University
+26348226	CDUni	Charles Darwin University	Northern Territory, Australia	8851	1990	3605	http://t.co/RzesfMY5xX	The university for your new world. A leading Australian University in Graduate Employment Outcomes. [CRICOS No: 00300K (NT/VIC) 03286A (NSW) | RTO No: 0373]
+23447403	Middlebury	Middlebury College	Middlebury, Vermont, USA	13250	140	1817	http://t.co/Gm1GoBvEem	News from Middlebury College
+1474315316	union_y	Yoko Iwata		233	143	3548	None	Associate Professor at Tokyo University of Agriculture and Technology.                    立花隆の宇宙教室(日本実業出版社)共著
+1468482055	RahmadiSunoko	Rahmadi Sunoko	Jakarta	911	304	1281	None	rahmadi.sunoko@gmail.com || Pegiat pemberdayaan masy. kelautan perikanan ||Ketua Umum APMU KP || Graduate from  National Taiwan Ocean University || https://t.co/Eq5avZtvQD
+3523759214	GabyRamia	Gaby Ramia		782	1221	2624	None	A/Prof University of Sydney. Policy. Politics. Int'l education. 2019 Visiting Prof Fellow, Social Sciences, Research Institute of the University of Bucharest
+765533345547780097	universitemDEU	Dokuz Eylül Üniversitesi	İzmir, Türkiye	5229	66	2519	https://t.co/d6JMHza58I	Dokuz Eylül Üniversitesi tarafından yönetilen Resmi Hesaptır. 
+Official Account of Dokuz Eylül University.
+243304554	FerchoRiveros_	Fercho Riveros (李飛瑞)	Taiwán	1389	355	48017	None	Hurry up, we're dreaming💥  |  Youth Ambassador 2015 🇺🇸  |  Business Management - National Taipei University of Technology #ClassOf2022  🎓
+17222000	ufvbr	UFV	Minas Gerais, Brasil	28029	76	3906	http://t.co/QYDLAZye22	Página oficial da Universidade Federal de Viçosa (UFV) | Facebook e Twitter: @ufvbr | Instagram e YouTube: @ufvbroficial
+132091908	LSuarez_Arrones	Luis Suarez  Arrones	Basel - Sevilla - Asturias	4034	898	3421	None	Strength & Conditioning Coach at FC Basel 1893. Senior Lecturer at Universidad Pablo de Olavide.
+893018437894721536	AgderUniversity	University of Agder	Grimstad and Kristiansand, Norway	163	95	139	https://t.co/Yc5lPiQCGY	UiA is one of the most modern universities in Norway, located in Kristiansand and Grimstad.
+We are dedicated to co-creation of knowledge to empower people.
+15598639	GeorgiaSouthern	GeorgiaSouthern	Statesboro | Savannah | Hinesville	55654	274	10279	https://t.co/VNXY8U9vVI	The official Georgia Southern University Twitter feed. Home of the Eagle Nation...Go Eagles! #GSGrad19
+321748734	Ehime_Univ	愛媛大学	愛媛県松山市道後樋又	4395	6	3691	http://t.co/zggcLHVzr9	国立大学法人愛媛大学の情報発信アカウントです。愛媛大学広報室が管理運営しています。本学のトピックス，イベント情報をお知らせします。本アカウントでは，利用者からの「リプライ」等を通じたご意見には対応していません。ご質問，お問い合わせ等は愛媛大学公式webサイトからお願いします。
+805572679621312514	AAlmigal	Amaal _ آمال المعيقل	United Kingdom	242	903	308	None	PhD candidate University College of London @UCL @IOE_LONDON Interested in augmentative and alternative communication, PECS and iPad for @autism التوحد
+339419013	CoachMcKie	BJ McKie	Johnson City, TN	4697	2744	3972	https://t.co/TmPhiMLI94	Men's Basketball Assistant Coach at East Tennessee State University and All-Time leading scorer at USC. Devoted husband and father.2017 SoCon Champs #ETSUtough
+576313586	susanalopezares	Susana López Ares	Oviedo, España	1452	78	3363	https://t.co/GmdnmUD92B	Diputada del @PPopular por Asturias en el Congreso. Portavoz adjunta @GPPopular. Doctora en Ciencias Económicas y profesora titular de la Universidad de Oviedo.
+83750061	YeungnamUniv	Yeungnam University	35.8300549,128.7613474	1784	1733	4941	https://t.co/lBIllU83TD	영남대학교 비서홍보팀에서, 영남대학교와 관련된 각종 공지 및 뉴스를 제공합니다.     [욕설 및 반말 멘션에 대해서는 원칙적으로 답변을 거부합니다]
+53744837	CoachYama24	Tory Yamaguchi	Portland, OR	380	371	1741	None	Current Asst Softball Coach at University of the Pacific. Former NPF catcher for the Philadelphia Force. Forever an IU Hoosier Alum.
+27880570	xaviromero	Xavi Romero	Lüneburg, Deutschland	516	516	741	None	PhD Candidate in Political Science at Leuphana Universität Lüneburg //
+Ciència (i) Política
+432545125	TUHamburg	TU Hamburg (TUHH)	Hamburg	2678	583	2945	https://t.co/rqxCiqUqYo	Hier twittert die Pressestelle der Technischen Universität Hamburg (TUHH)
+135375220	sutnews	SUT News	Nakhon Ratchasima	2753	15	12255	http://t.co/iCzqeIDtNx	Suranaree University of Technology's official twitter news
+54141754	uniurbit	Università di Urbino	Urbino, Marche	8083	359	1144	http://t.co/lgqf0blQCG	Account ufficiale dell'Università degli Studi di Urbino Carlo Bo.
+154395962	BondUniversity	Bond University	Robina, Gold Coast	11944	1580	8461	https://t.co/6PNgAhbw5L	Stand out at #BondUniversity 
+CRICOS: 00017B
+1929797460	Ural_Federal	Ural University	Ekaterinburg, Russia	1380	1543	3426	http://t.co/9QtxISXSrd	Official Twitter for Ural Federal University, top-10 Russian university bringing together traditions and innovations in research and education / RUS: 🇷🇺 @urfu
+928718161	UofSouthAlabama	U of South Alabama	Mobile, AL	10110	225	1760	https://t.co/XSDOqGbb3i	The official Twitter of the University of South Alabama. USA is a vibrant and diverse university that focuses on teaching, research, service and health care.
+131844854	chouhoshu	NAKATAKE Sadafumi	鹿児島県鹿児島市	427	384	8561	None	鹿児島大学　産学・地域共創センター准教授/Associate Professor,　Kagoshima University Regional Co-creation Center for Industry and Society/鹿児島やら大学やら桜島の景色など
+2348553841	iGEMgifu	iGEM Gifu@春休み	岐阜大学	593	579	890	https://t.co/jfclFGkZai	We are an iGEM team from Gifu University！私たちは合成生物学の世界大会 iGEMに参加する岐阜大学のチームです！今は新規タンパク質合成法の開発に取り組んでいます。岐阜大フェアにも参加します。#春から岐阜大 #春から岐大 #iGEM #synbio #合成生物学
+573449737	UIBuniversitat	UIB	Illes Balears	15029	978	6716	https://t.co/lKA4gT8cng	Universitat de les Illes Balears: la Universitat de Mallorca, Menorca, Eivissa i Formentera. Recerca, docència, internacionalització, innovació i cultura.
+21661387	RowanUniversity	Rowan University	Glassboro, NJ	28363	408	15695	http://t.co/vhMyfjEyuq	The official Twitter of Rowan University, providing Profs with news, events, campus life and community. #RowanPROUD
+15461608	UCCS	UCCS	Colorado Springs	10246	430	7778	http://t.co/0DTbzgGMuE	#ReachHigher at UCCS, a regional research university, part of the world-renowned University of Colorado system, located near the foothills of Pikes Peak.
+16311710	WilliamsCollege	Williams College	Williamstown, MA	16617	2488	9188	http://t.co/55j6uDzJm5	Founded in 1793, Williams is a private, liberal arts college located in Williamstown, Mass. Tweets by the Office of Communications staff. #WilliamsCollege
+65356879	nanewoops	นะนิว.项羽	Yunnan, People's Republic of China	955	0	7391	https://t.co/Q0bMqqcbLF	NANEW line&IG: nanewoops • Yuxi No.4 China • • Montfort College • •CAMT CMU • • International College • Yunnan Normal University Business School
+420364485	upjv	UPJV	Amiens, France	4016	406	1010	https://t.co/bVf9uoMifH	UPJV - Université de Picardie Jules Verne #UPJV https://t.co/7X5OF4bBdy
+138309569	kitamura_j	Jun Kitamura	Maebashi, Gunma Pref.	483	452	31862	https://t.co/gZ4k83D6W0	群馬大学社会情報学部/行政学  Public Administration, Faculty of Social and Information Studies, Gunma University., Japan. (header photo: Berlin. March, 2017)
+25983654	LBS	London Business School	London	156554	914	26004	http://t.co/JmVUGhVsMy	Official tweets from one of the world's top business schools. Featuring insights into London Business School life, news &  business thinking.
+2214132199	EducationUoM	MIE	Manchester, UK	782	168	1254	http://t.co/Jjxgnj9uvW	Manchester Institute of Education, at The University of Manchester.
+
+Researching and developing education for all.
+35825843	AngliaRuskin	Anglia Ruskin	East of England	29147	1265	16820	http://t.co/H4j1ujIQ1c	Anglia Ruskin is a global University with campuses in Cambridge, Chelmsford, Peterborough and London. Need help? Tweet @aruanswers or email answers@anglia.ac.uk
+319495411	profstonge	Peter St Onge	Taichung City, Taiwan	407	181	607	https://t.co/Yd3yhhL3Gw	Economist; Assistant Professor, Feng Chia University
+81088939	enioverri	Enio Verri	Paraná, Brasil	17031	182	10488	https://t.co/cK8HA8cjKR	Deputado federal pelo PT e professor licenciado do Departamento de Economia da Universidade Estadual de Maringá (UEM).
+305216984	ica_ufpa	ICA UFPA	Belém	1260	373	7702	http://t.co/VQyVtHYGzw	Twitter oficial do Instituto de Ciências da Arte da Universidade Federal do Pará (UFPA)
+5424522	TheCreaturesLab	Vladan Joler	The Internets	2601	934	2713	https://t.co/HMH0X6esuz	Share Lab https://t.co/axydUeVS4D
+ University of Novi Sad
+22788221	LSUHealthNO	LSU Health Sciences	New Orleans, LA	9893	2186	10317	https://t.co/wXWYDsQNxh	The official feed of LSU Health Sciences Center New Orleans - LA's flagship health sciences university. Retweets  ≠ endorsements.
+199646482	UPECactus	UPEC	Créteil	7751	685	12034	https://t.co/0kNqH75Z5i	Tweets officiels de l’Université Paris-Est Créteil Val de Marne (ex Paris 12). 
+Besoin d'informations ? Contactez-nous en DM du lundi au vendredi de 9h à 17h.
+14881592	misterdenie	Tanakon Saarddee	Satun, Thailand	293	168	4912	https://t.co/BosUYLJCDu	Working at Medical Education, Faculty of Medicine, Prince of Songkla University.
+1225893318	EvelynAttia	Evelyn Attia		491	51	165	http://t.co/gNaF0Aq6O0	Professor of Psychiatry, Director of Eating Disorders at Columbia University Medical Center and Weill Cornell Medical College @ColumbiaED
+84282694	UBO_UnivBrest	UBO - Univ. Brest	Brest, Bretagne, France	9201	584	4842	http://t.co/ZUaaFhQQv1	Fil d'infos de l'UBO, Université de Bretagne Occidentale
+47107689	TAMUQ	Texas A&M at Qatar	Doha, Qatar	14185	311	2666	http://t.co/Zu4TZ3w284	Texas A&M University at Qatar
+180361443	sabanciu	Sabancı Üniversitesi	Türkiye, İstanbul-Tuzla	25459	322	6785	http://t.co/7NX8ztZPV4	Sabancı Üniversitesi resmi twitter profili. https://t.co/oAj1QDVdBD https://t.co/pxpk0A8BDg https://t.co/MHUsEwuqOA
+124154741	UNavarra	UPNA - Universidad	Pamplona, Navarra (España)	14910	930	11252	https://t.co/TCnwRC3YNW	Cuenta oficial de la Universidad Pública de Navarra (UPNA). Campus de Pamplona y Tudela. @campus_iberus https://t.co/Qe6EZd7Hve Tel: 948 169000
+218343330	VicUniWgtn	Victoria University of Wellington	Wellington, New Zealand	13721	703	6666	http://t.co/nXmtJblxQQ	The official Twitter account for Victoria University of Wellington—New Zealand’s globally ranked capital city university.
+170101301	NPS_Monterey	NPS Monterey	Monterey, CA	4401	127	2995	http://t.co/HJkLA6DGji	The Naval Postgraduate School is a graduate research university offering advanced degrees to the U.S. Armed Forces, DOD civilians and international partners.
+30568934	azevedofonseca	Andre Azevedo da Fonseca	Madrid, Espanha	5915	1638	1391	https://t.co/y8EkxMIA6t	Professor na Universidade Estadual de Londrina. Professor visitante na Universidad Complutense de Madrid. Tenho um canal no YouTube e um blog no @huffpostbrasil
+98226701	Andregomespress	André Gomes		1909	809	6682	None	Jornalista e radialista formado pela Universidade Federal da Paraíba (UFPB). Atualmente subeditor de política do Jornal Correio da Paraíba.
+54172201	AnnaMinton	Anna Minton	London	5438	719	1879	http://t.co/GGefnIBz3m	Author of Big Capital & Ground Control. Programme Leader of 'Reading the Neoliberal City' MRes course at the University of East London . Mum of two small boys.
+17466348	UALR	UA Little Rock	Little Rock, AR	11901	2006	17002	https://t.co/2rwLb6LLgi	We are the University of Arkansas at Little Rock. Discover unlimited pathways to your future. #UALittleRock #LittleRocksTeam
+52041192	yannisc	Yannis Charalabidis	Greece	1885	812	4337	https://t.co/5zKdeI6EWI	Associate Professor at the University of the Aegean, in Samos.Researching on startups, egovernment, interoperability, complex systems modelling, ICT for science
+245752637	Tzogopoulos	George	Athens	461	297	1070	https://t.co/mFWye7keb8	Researcher @besa_center, Senior Fellow @CIFE_EUSTUDIES, Lecturer @ Democritus University of Thrace
+15481233	GVSU	Grand Valley State	Allendale, MI	56228	343	11366	http://t.co/RFYyfqGXJK	The official Twitter account for Grand Valley State University. Home of the Lakers. News: @GV_Now #GVLakerEffect
+14259974	HEC_Montreal	HEC Montréal	Montréal	15653	2131	3180	https://t.co/53kqRZIwki	HEC Montréal est un établissement universitaire francophone dont les programmes d’enseignement et la recherche en gestion sont de renommée internationale.
+121398330	InfoUMA	Universidad Málaga	Málaga	116232	2166	23258	http://t.co/YBd7DAr9C8	Campus Excelencia Internacional @AndaluciaTech. 63 Grados y Dobles Grados, 68 Másteres Oficiales, 22 Programas de Doctorado y titulaciones propias.
+49667039	CaledonianNews	Glasgow Caledonian University	Glasgow city centre	19456	1581	19898	https://t.co/rPXxO3rxpb	The latest news from Glasgow Caledonian University. For student enquiries, visit @gcutoday. Contact GCUNewsroom@gcu.ac.uk for all media enquiries.
+2806078830	TeddLMitchell	Tedd L Mitchell	Lubbock, TX	1196	200	373	https://t.co/S5yVUHKMAu	President of the Texas Tech University Health Sciences Center | Chancellor of the Texas Tech University System
+125391822	usal	Universidad de Salamanca	Salamanca (España)	51799	1791	25731	http://t.co/M2csVxWvLA	La Universidad de Salamanca es una de las universidades más antiguas y uno de los centros de referencia de enseñanza superior en España y en el mundo
+29196791	TrentUni	Nottingham Trent University	Nottingham, England	54937	1000	18651	http://t.co/40p394vWym	One of the UK’s most popular and innovative universities, with a fantastic reputation for launching great careers. University Of The Year 2017.
+44395630	Rhodes_Uni	Rhodes University	Grahamstown, South Africa	9946	546	3105	https://t.co/w4w0InBVFO	Official Twitter account for Rhodes University, Grahamstown.
+83843114	theNWU	North-West University	South Africa	18739	543	11045	None	The spirit of @theNWU is reflected in the way we unlock the future for people and enable them to make their dreams come true. It all starts here #MyNWU
+17993899	SamHoustonState	Sam Houston State	Huntsville, Texas	23345	2396	14425	http://t.co/YGpKcoi57c	Since 1879, Sam Houston State University has been preparing students for meaningful lives of achievement. “The measure of a Life is its Service #SHSU
+85878357	kavaleuski	Valery Kavaleuski	Washington, DC	1078	2305	6584	None	International affairs, security and politics.
+Former Belarusian diplomat.
+Georgetown MSFS'14.
+Belarusian State University'98.
+113418508	Aswin_Agustinus	Aswin Agustinus	ÜT: -6.906746,107.613879	410	432	28779	http://t.co/AhTY5gjD44	DALKA RC FUSION futsal player. HI Unpar. MBA ITB. Goldsmiths, University of London. Ming Chuan GSIA. Manchester United !!
+251620525	usa_hakase	うさはかせ Prof.Lièvre	静岡, Shizuoka, Japan	15928	234	146178	http://t.co/VRra66tJAA	Volcanologist/geologist, Shizuoka University & Izu Peninsula Geopark 静岡県で火山や地震やジオパークのことを研究してます。岩波新書「富士山　大自然への道案内」の著者、ブラタモリ富士山の案内人
+57623076	uc3m	UC3M	Madrid	34824	581	7712	http://t.co/Rb1fKuatCs	Twitter oficial de la Universidad Carlos III de Madrid. 
+#uc3m
+988658934	HamidRezaAz	Hamidreza Azizi	Tehran, Iran	912	280	4011	None	Researcher and Journalist| Assistant Professor at Shahid Beheshti University| Contributor to @AlMonitor , @ValdaiClub |RTs not endorsements
+46316307	andreadianca	Andrea Dianca☺♥	Andrea Dianca Skin Care	1104	0	38044	https://t.co/rJw8o6CP2f	Makeup Enthusiast. Love pink&barbie. Glee Fan. Deine zukünftige Hautärztin. Universitätsmedizin Mainz, Germany
+213273608	TelecomPTech	Télécom ParisTech	Paris, Sophia, France	11874	386	8360	http://t.co/Cwad31YqaX	Grande école #ingénieurs #sciences #technologies #information #ingénierie #numérique #recherche #innovation @IMTFrance 
+@IMTechfr membre de @UnivParisSaclay
+82037156	MalmoUniversity	Malmö University	Malmo, Sweden	7397	622	3441	https://t.co/1P6JHiTaiv	Malmö University offers bachelor’s and master’s programmes in English. Follow us for info about research, education and news. På svenska? Följ @malmouni
+473573789	timatatonixi	豊田時生	千葉 印西市	963	254	5360	https://t.co/uKbmklmsds	現社会人1年目✈️ 元JUNTENDO University Gymnastics Instagram 〆https://t.co/Bo4n6Xh3Vi 池上スポーツ→駒場→順天堂
+212561688	AlexU_Edu_Eg	AlexandriaUniversity	Alexandria, Egypt	3398	43	15946	http://t.co/1TFhTVlZyt	Alexandria university *Knowledge*Innovation*Collaboration* 
+- official account 
+| 
+ جامعة الأسكندرية
+ *معرفة*ابتكار*خدمات* 
+- حساب رسمي
+188772336	DITSocieties	DIT Societies	Dublin Institute of Technology	1862	530	620	https://t.co/4n4grYfsCf	Dublin Institute Of Technology (DIT) Societies Office Tweeting about Societies & Campus Activity in DIT https://t.co/wE7lONyGLs
+7580332	smiley0311	Ismail Arai		506	760	2941	http://t.co/FpgBXzEYAZ	is investigating pervasive computing at Nara Institute of Science and Technology, Japan.
+1105761655688843265	ClubHenan	Career Club Henan Polytechnic University	Jiaozuo,henan,china	0	0	2	None	Develope your future with us
+22878447	itbofficial	ITB Official	Bandung - Jatinangor - Cirebon	859635	152	5386	https://t.co/ufwNDrDGwR	The official Twitter account of Institut Teknologi Bandung. Instagram: @.itb1920 ㅡ Contact: humas@itb.ac.id
+115366611	TallinnUni	Tallinn University	Tallinn	1797	31	601	http://t.co/HXQ3LWjcez	Tallinn University is an innovative and academically enriching university located in Estonia.
+300359676	BUAPoficial	BUAP	Puebla, México	257590	7054	22007	https://t.co/XygPmf2O8u	Cuenta Oficial de la Benemérita Universidad Autónoma de Puebla.
+142280807	UniPassau	Universität Passau	Passau, Deutschland	4022	63	4438	http://t.co/hRcdzaNf2j	Rund 13.000 Studierende aus über 100 Ländern lernen und forschen an der Universität Passau: wissenschaftlich fundiert, innovativ und international.
+55311623	janetrosenbaum	Janet Rosenbaum	Brooklyn, NY	188	376	616	http://t.co/ojC9kmXVJX	Assistant Professor, Department of Epidemiology, State University of New York Downstate Medical Center, Brooklyn.
+162803197	dinkarsingh	दिनकर सिंह “सूरज”	New Delhi	9500	5651	6377	https://t.co/xCvWLehDxj	Member - Governing Body, CVS - University of Delhi. Member Advisory Committee & Board of Studies, Banaras Hindu University. Alumnus FMS - BHU.
+20505035	leedsbeckett	Leeds Beckett	Leeds, UK	56889	4444	23432	http://t.co/opNWGtWB6v	The official account of Leeds Beckett University (formerly Leeds Metropolitan). A thriving student community in the 💜 of Yorkshire.
+111928031	UFCG_Oficial	UFCG	Campina Grande, Brasil	10630	34	8238	http://t.co/j38YwaQAtP	Twitter oficial da Assessoria de Comunicação da Universidade Federal de Campina Grande (UFCG). E-mail:aimp@reitoria.ufcg.edu.br Telefone: (83) 2101.1446
+32543687	CarletonCollege	Carleton College	Northfield, Minn.	8423	796	5230	https://t.co/I1xkB6Mfu4	A top national liberal arts college.
+522005886	nsuem	НГУЭУ	Новосибирск, Каменская, 56 	947	86	2428	http://t.co/eDHfaPxTr2	Новосибирский Государственный Университет Экономики и Управления. #НГУЭУ #Новосибирск
+101263487	anuchai1911	ผมชื่อศิลปะ	world of Art	65148	477	10879	None	a student of Thammasat University | an ordinary guy | life is my life | love to smile smile and smile | nice to know you my friends |IG:MYNAMEISART1911 (:
+21848274	EdinburghNapier	Edinburgh Napier University	Edinburgh, Scotland	28779	1010	14054	http://t.co/tiNcfT0jq2	The official Twitter account of Edinburgh Napier University. We deliver the skills and experience that matter.
+18090660	NavalAcademy	U.S. Naval Academy	Annapolis, MD	64228	129	3529	https://t.co/0qldZqsO6T	Official Twitter account of #USNA. Dedicated to the #MoralMentalPhysical development of @USNavy #Midshipmen since 1845 (Following/RTs ≠ endorsement)
+423228113	UniIbadan	University of Ibadan	Nigeria	8799	377	447	http://t.co/2w3Er8me54	
+17049666	mtholyoke	Mount Holyoke College	So. Hadley, MA	14054	283	18606	http://t.co/TRfkMEsaZ0	Smart. Strong. Inventive.
+21996792	danieltg	Daniel TG	Portugal	344	803	2472	http://t.co/dnk9QrUbtU	MTFG Advogados; 
+ESTGF - Instituto Politécnico do Porto;
+University of Edinburgh
+378587265	Univ_Savoie	UnivSavoieMontBlanc	Annecy, Chambéry	4671	281	3625	https://t.co/0L3NORM5dW	Sur 3 campus entre lacs et montagnes l'Université Savoie Mont Blanc propose à 15 000 étudiants plus de 200 formations diplômantes à tous les niveaux du L-M-D.
+17898461	UniStavanger	UiS	Stavanger, Norway	6891	1228	3741	http://t.co/1JQqFCv3Qh	Universitetet i Stavanger | University of Stavanger, Norway. Kontoen betjenes av @BenedictePentz og @Leivg
+591249337	pgajardoadaro	Pedro Gajardo	Valparaiso, Chile	913	1988	708	https://t.co/P92h8Iblgh	Profesor Asociado, Departamento de Matemática / Universidad Técnica Federico Santa María (UTFSM). Tweets personales; RT no necesaria%, mucho - de mi empleador.
+292265422	UniversidadMH	UMH	Elche (Alicante - España)	24293	444	17298	https://t.co/djHQY48TOb	Tu Universidad Pública en Elche, Altea, Orihuela y Sant Joan d'Alacant | Quinta en el ranking de las mejores universidades españolas. #umh
+97354587	EmbryRiddle	Embry-Riddle Univ	Daytona Beach, FL Prescott, AZ	16446	809	10293	http://t.co/TBoRPRuO81	Official Account. Check out more ERAU pages @ERAUWorldwide           @ERAU_Alumni @ERAUPrescott @ERAU_Daytona
+305036746	ULLafayette	UL Lafayette	Lafayette, Louisiana	30161	736	13374	https://t.co/dsJSuA4By9	The official Twitter account for the University of Louisiana at Lafayette, home of the Louisiana Ragin' Cajuns. #GeauxCajuns
+93021235	udp_cl	UDP	Santiago de Chile	15117	614	10361	https://t.co/JWXSMPHHaE	Cuenta oficial de la Universidad Diego Portales.
+938306633960247299	SejongUniKR	SejongUniversityKorea	Seoul, Republic of Korea	128	590	144	https://t.co/wHdLZk2QMG	Email me at : yasminramlan@sejong.ac.kr
+79413954	kizm_naoya	Naoya KOIZUMI / 小泉直也	Tokyo	1421	602	51419	https://t.co/gki31k3jR6	父親はじめました。 Ph.D. in Media Design. Assistant Professor. The University of Electro-Communications. / JST PRESTO.
+50014184	KM_KMUTT	KM of KMUTT	BKK, Thailand	829	27	585	http://t.co/By81gwHdJS	All update contents from King Mongkut's University of Technology Thonburi (KMUTT) 's Knowledge Management website.
+120256278	TigresOficial	Club Tigres Oficial	San Nicolas de los Garza, NL	1672438	30	58515	https://t.co/EUwJLkWnu0	Twitter Oficial de Club Tigres UANL Sinergia Deportiva s.a. de c.v. https://t.co/hUGBr7bHRT https://t.co/EyJqQdwzQn
+3258082987	charumonga01	Charu Monga	Guwahati, Assam	301	248	189	None	Faculty at Department of Design, Indian Institute of Technology Guwahati
+131286593	UOIT	University of Ontario Institute of Technology	Oshawa, Ontario, Canada	14627	2590	11369	http://t.co/I6Gi7miinc	University of Ontario Institute of Technology is modern and innovative with bachelors, masters, PhDs, and diploma-to-degree programs across many areas of study.
+496969590	UAEU_NEWS	جامعة الإمارات العربية المتحدة	AL-AIN	38254	0	7920	https://t.co/g3y15eKSUg	الحساب الرسمي لجامعة الإمارات العربية المتحدة - تأسست عام 1976 Accredited by WASC
+122432575	uwarchives	University of Winnipeg Archives	Downtown Winnipeg	1093	552	1494	https://t.co/maS3XU4Iff	We are the archives of the University of Winnipeg and its founding colleges dating back to 1871.
+899462802	UHA68	UHA	Mulhouse - Colmar	2145	367	2441	https://t.co/k8DC9bGmu2	Le fil twitter officiel de l'Université de Haute-Alsace. #université #uha #Mulhouse #Colmar #Education
+72480943	panupongsk	Panupong Sornkhom	Thailand	464	1278	7519	http://t.co/RlGreG3cvk	Computer Engineering Lecturer of Naresuan University and Physics tutor at SolveSchool.
+111063946	ipsqwcn	今野 紀雄（Norio Konno）		503	221	2800	None	主に量子ウォーク、無限粒子系、複雑ネットワークを研究中。横浜国立大学 教授。Professor, Yokohama National University. My research topics are quantum walks, particle systems and complex networks.
+40476869	atepoorthuis	Ate Poorthuis	Singapore	525	379	91	https://t.co/yvyD02rlcb	Geographer interested in cities, space, mapping and methods // Assistant Professor at Singapore University of Technology and Design
+224156377	atauni1957	Atatürk Üniversitesi	Erzurum, Türkiye	23001	1	2696	https://t.co/GZo3MMRpnA	Atatürk Üniversitesi resmi Twitter hesabı / Official Twitter account of Atatürk University
+https://t.co/tzw3IZGF4g - https://t.co/XHUE56QfgP
+92287080	etsmtl	ÉTS	Montréal, Québec, Canada	6406	1151	2774	http://t.co/M6aEEt2fOC	Compte officiel de l’École de technologie supérieure #ETSMTL. L’ÉTS, le génie pour l'industrie.
+10869882	Tokyoheadhunter	Al Isago Parvez	Tokyo, Japan	284	251	2125	https://t.co/2bY6wNR5WI	New York native living in Japan for 26 years. CEO of Advance K.K (executive search firm), City University of NY-Hunter College, JET Program (Yokohama)
+497954406	JanDewing	Prof Jan Dewing		2098	203	13704	None	Sue Pembrey Chair of Nursing QMU Edinburgh. Affiliated to Centre for Care Research Bergen & Stord-Haugesund Norway and University of Maribor Slovenia
+18506515	AmherstCollege	Amherst College	Amherst, Massachusetts	15166	518	9000	http://t.co/cuh1w5d1Mw	One of the premier liberal arts colleges in the United States, enrolling some 1,800 talented, energetic and diverse young people.
+225052010	oberlincollege	Oberlin College	Oberlin, OH	6301	261	5464	https://t.co/oaIQPOTfVc	Think one person can change the world? So do we. Maintained by the Oberlin College Office of Communications.
+14861641	SIUE	SIUE	Edwardsville, Illinois	10958	347	12947	http://www.siue.edu/	Founded in 1957, Southern Illinois University Edwardsville is a fully-accredited public institution situated on 2,660 acres 25 miles from St. Louis.
+18009532	marshallu	Marshall University	Huntington, WV	23254	1263	11820	https://t.co/othN5cDgUN	Official Twitter of Marshall University. Changing lives and inspiring futures. Connect with the #MarshallUFamily today!
+174783764	UofNorthFlorida	University of North Florida	Jacksonville, Florida	9520	327	8755	https://t.co/uB96kRjM2w	Official UNF University of North Florida Twitter. Average enrollment of more than 16,000 students; six colleges of distinction. #loveUNF #SWOOPLife
+951575091762159618	madej_julian	Dr Julian Madej	Gdańsk, Polska	990	1537	162	None	Assistant professor Gdansk University, interested in politics, security and international relations. Father of two. #Poland #Gdansk
+30231500	BrynMawrCollege	Bryn Mawr College	Suburban Philadelphia, PA	9078	939	14611	http://t.co/4sYH2kIkAM	A selective liberal arts college for women located minutes from Philadelphia, PA. Two coed graduate schools.
+102630256	roskildeuni	RUC	Roskilde - Denmark	3223	919	1070	http://t.co/KEGtVVQheH	Tweets om #dkvid #uddpol #mitruc
+Presseservice: 2887 0027
+35456132	NucleoAmbiente	NAmb: NúcleoAmbiente	Faro	2380	1782	26	http://t.co/j1YIRvNDwG	NAMB - O Núcleo de Ambiente da Universidade do Algarve. Seminários, Passeios, Canoagem, Cursos, estamos abertos a novas Parcerias. VISITA-NOS JÁ!
+3298482010	StuartReid_RVC	Stuart Reid	London	1316	252	489	https://t.co/bJPgtYGkrU	Principal of the Royal Veterinary College, University of London. Chair RCVS' @vetmindmatters - Views my own.
+78144054	thurleyy	taylor hurley	Ohio, USA	832	807	15892	None	|| Kent State University Alumni || ΔΓ Alum || South Korea || Dankook University ||
+281767009	MaksymKhylko	Maksym Khylko	Kyiv, Ukraine	489	320	4217	https://t.co/GA3vetnGnI	Chairman at the East European Security Research Initiative Foundation @EESRIorg; PhD, Senior Research Fellow at Taras Shevchenko National University of Kyiv.
+140943041	marmaraunv	Marmara Üniversitesi	İstanbul	42363	149	4235	https://t.co/pfurlbQeLm	Marmara Üniversitesi resmi twitter hesabıdır. Official Twitter Account of Marmara University https://t.co/zCuL6qeNnB https://t.co/49PslodxoR
+74697950	Cruquenaire	Alexandre Cruquenaire	Belgique	581	123	2721	https://t.co/JDSDmwvBJw	Avocat spécialiste en propriété intellectuelle et en droit des technologies de l'information ; Maître de conférences à l'Université de Namur (BE)
+134105141	dongguk_univ	dongguk_university		16	0	1	http://t.co/DaS1uUUySy	
+19317400	hafolgado	Hugo Folgado	Évora, Portugal	332	502	238	None	Department of Sport and Health, Universidade de Évora, Portugal - Team Sports, Performance Analysis
+
+⚽️⚽️
+312016287	TommasoDiNoia	Tommaso Di Noia	Bari, Puglia	341	111	857	http://t.co/Co98OyfdlI	Full Professor in Information Processing Systems @ Politecnico di Bari - Linked Open Data, Semantic Web, Recommender Systems, Artificial Intelligence, Research
+292178052	YildizEdu	Yıldız Teknik Üniversitesi	Beşiktaş, İstanbul, TÜRKİYE	35483	52	2434	https://t.co/tCW6ynQ1u1	Kondüktör Mekteb-i Âlisi adı ile 1911’de kurulan bir asırlık çınar. Türkiye’nin dünyaya açılan bilim üssü.
+18048681	OliverStuenkel	Oliver Stuenkel	São Paulo	21690	1561	27617	http://t.co/Hji0eJjd2a	Professor of International Relations at Fundação Getulio Vargas (FGV) in São Paulo. Author of 'Post-Western World' (Polity, 2016) https://t.co/fhiTR8aGkH
+2340452984	UniBergamo	UniBg	Bergamo	2791	134	4094	http://t.co/4UiYqo0XLn	Università degli studi di Bergamo. Futuro in corso.
+65616670	UFU_Oficial	UFU	Uberlândia	9442	130	3148	http://t.co/D6z56cqTPc	Twitter Oficial da Diretoria de Comunicação da Universidade Federal de Uberlândia (UFU)
+87770695	CSBSJU	CSB/SJU	St. Joseph & Collegeville, MN	7890	278	6145	https://t.co/Ib5pnUewyn	The College of Saint Benedict and Saint John's University are nationally recognized liberal arts colleges. #csbsju
+221620566	usceduau	USC: University of the Sunshine Coast	Sunshine Coast, Queensland	4672	801	5213	http://t.co/VQN9xMd6fG	Official account of the the University of the Sunshine Coast.
+1968194946	Official_UPD	UP Diliman	Diliman, Quezon City	49319	86	3149	http://t.co/A6njM0OSIA	Official Twitter account of the University of the Philippines Diliman
+3078309940	homacdhe	Homa - Human Rights and Business Centre	Juiz de Fora, Brasil	198	171	597	https://t.co/SPaOBIkx9D	Centro de Direitos Humanos e Empresas da Universidade Federal de Juiz de Fora (UFJF). 
+A Brazilian Human Rights and Business Centre.
+397713136	UNU_Japan	国連大学	東京	2892	255	2454	https://t.co/b2X8zTNl9m	国際連合大学（こくさいれんごうだいがく、英語: United Nations University）は、国連とその加盟国が関心を寄せる地球規模の共通課題の解決に取り組むため、研究や人材育成を行うことを目的とするシンクタンクおよび研究教育機関です。
+1303365926	SSUChallengers	Soongsil University		3	2	6	None	
+973167641887158272	UCLMEdiciones1	Ediciones de la Universidad de Castilla-La Mancha	Cuenca, España	188	271	281	https://t.co/J4QBljchoC	Editorial de la Universidad de Castilla-La Mancha
+115127371	haverfordedu	Haverford College	Haverford, PA	7231	420	7896	http://t.co/4RHaxgIxS8	The official account of Haverford College. Maintained by College Communications.
+80411028	b_blomster	Brian Blomster	Sacramento, CA	838	212	857	https://t.co/cQCIGUnnJa	Director of News and Communications at Sacramento State. Finally back on campus, and loving it.
+343681680	SryMissJacks0n	Jordan Jackson		1147	492	1565	None	Professional Soccer player Houston Dash. #8. University of Nebraska Alum
+16053766	jirok	jiro kokuryo 國領二郎		15714	304	4322	http://t.co/9u60ZMpJSU	Professor, Keio University Faculty of Policy Management.  Komaba Toho High, Tokyo U, HBS MBA & DBA
+7858252	LoyolaMarymount	Loyola Marymount University	Los Angeles, CA	13626	3510	12507	https://t.co/NmrnTyJYGE	The official Twitter account of Loyola Marymount University. #ILoveLMU
+774230095993208833	AMUJournal	Aligarh Muslim University Journal.	Aligarh, India	7056	1909	556	https://t.co/7BBF1YWtvr	AMU Journal is an independent Student-run Online News Portal.                                #AligarhMuslimUniversity      https://t.co/wCLET3Ts8z #AMU
+80105473	SSU_1961	Sonoma State University	Rohnert Park, California	5452	310	4443	https://t.co/jOMm8VrwY9	Official Twitter page for Sonoma State University. Home of #NomaNation 💙
+523881593	ChenDingding	Chen Dingding	Guangzhou, China	4176	3193	4976	None	Founder of 海国图智研究院, an independent think tank on international affairs in China. Professor of International Relations at Jinan University, Guangzhou, China.
+108951648	upemlv	Univ. Paris-Est MLV	Paris, Marne la Vallée	9347	281	4497	http://t.co/AdzYGFaiuq	Twitter officiel de l'Université Paris-Est Marne-la-Vallée
+829927662655148032	DoshishaUniv_PR	同志社大学	京都 京都市 上京区	9170	0	512	https://t.co/5bHFixXpWo	同志社大学広報課が管理・運営する公式アカウントです。本学の取り組みや歴史、学生・教員の活動をはじめとしたさまざまな情報を、画像や動画などのコンテンツをまじえて発信していきます。フォローや個別のご質問・メッセージ等には返信いたしませんので、あらかじめご了承ください。
+245321684	meidaisoccer	明治大学体育会サッカー部	東京都世田谷区八幡山2-17	9199	147	9343	https://t.co/G3At31ZYde	明治大学体育会サッカー部公式アカウントです！試合情報、試合速報、マネージャー日記更新やその他様々なことをつぶやいていきます！日本一を目指して、日々活動しています。応援よろしくお願い致します！※こちらのアカウントに掲載されている画像等の無断転載はご遠慮ください。
+242665282	UAICiasi	UAIC IASI	IASI, ROMANIA	1408	42	3013	http://t.co/9yQzXdtHMO	Prima universitate din România / Alexandru Ioan Cuza University of Iaşi is the oldest higher education institution in Romania
+1000159964718092288	MdHuang	Weijian Huang	People's Republic of China	446	130	205	None	Director of cardiovascular department of the first affiliated hospital of Wenzhou medical university
+3911429957	dween_p	Dween Habeeb	Kurdistan	1652	197	3368	None	VSB- Technical University of Ostrava/ Erbil
+17357118	FairfieldU	Fairfield University	Fairfield, CT	10899	1148	9616	https://t.co/MCmlYcQPnK	The official account of Fairfield University, the modern Jesuit Catholic University, founded in 1942.
+490333210	ionandrou	Ion Androutsopoulos	Athens, Greece	462	273	780	http://t.co/LTy2KwH6i0	Associate Professor, Natural Language Processing Group, Department of Informatics, Athens University of Economics and Business
+778171157988204546	DHLNU	Digital Humanities at Linnaeus University	Växjö, Sverige	135	89	120	https://t.co/TNMpsVXJLT	Linnaeus University Digital Humanities is a cross-faculty initiative addressing societal challenges and innovations. https://t.co/zWuhKq7zQ1
+3075100120	antscience	Ant Research CB	Ceske Budejovice, Czech Rep	352	77	64	http://t.co/VyTXhfBxBW	The Ant Lab of University of South Bohemia and Institute of Entomology BC CAS. Ecology, evolution & biogeography of ants in Papua New Guinea, Borneo & beyond.
+2418073712	JotaPeCoutinho	João Pereira Coutinh		869	19	3	None	Sou jornalista, escritor, historiador e comentador e cientista político português. E professor da Universidade Católica Portuguesa.
+37886101	ShirazHaderach	Darshana Jayemanne @SCMS @GDC	Dundee, Scotland	908	2044	9878	https://t.co/3Ahrhfu9JQ	Lecturer in Art, Media and Games at Abertay University.
+132273334	Ash_Education	Ashley Simpson	ÜT: 53.471546,-2.238788	686	1454	4337	https://t.co/cL4I0zLeu4	Research Assistant Professor. Shanghai University of Finance and Economics.
+41873654	IllinoisStateU	Illinois State	Normal, Illinois	46830	8231	21429	https://t.co/PBgCBfLEJ8	Illinois State University, the state's first public university
+958002668	WMOT_RootsRadio	WMOT/Roots Radio	Middle Tennessee	3004	697	2812	https://t.co/RmMbAUbGzW	WMOT/Roots Radio 89.5 FM is public radio from Middle Tennessee State University, spinning Americana Deep and Wide around the clock.
+126322325	BibliotecaUTFPR	Biblioteca da UTFPR	Londrina, Pr, Brasil	634	51	287	http://t.co/nTF3crmS6V	Biblioteca da Universidade Tecnológica Federal do Paraná (UTFPR),Campus Londrina,debib-ld@utfpr.edu.br
+325399179	bjornjerden	Björn Jerdén	Stockholm, Sweden	641	389	2761	https://t.co/bEEPI4i5ut	Head of Asia Programme @UIsweden — January-March 2019 Taiwan Fellow at National Cheng Kung University
+1627739510	AIIMSBhopal	AIIMS Bhopal	Saket Nagar, Bhopal, M.P, 🇮🇳	2326	8	1640	https://t.co/2YCZU8e2t0	All India Institute of Medical Sciences. https://t.co/TE1JBjFgve  https://t.co/OL2LP9fnK5 https://t.co/w3HKyMZ5tN
+17068492	ChicoState	Chico State	Chico, CA	19619	256	12352	https://t.co/OdysBYADEw	The official Twitter account of California State University, Chico — home of the Wildcats!
+727909503606329344	MutluCukurova	Mutlu Cukurova	London, England	434	332	380	https://t.co/klvcScjJ3B	Lecturer in Digital Technologies in Education, Learning Scientist at UCL Knowledge Lab, University College London @uclknowledgelab @IOE_London @UCL
+2900347866	RRajagopalanJNU	Rajesh Rajagopalan		5266	982	10247	http://t.co/7R5plAeJYP	Professor of International Politics, Jawaharlal Nehru University, New Delhi
+1197489186	iium_sciencess	IIUM SCIENCESS	Kuantan, Pahang 	1146	725	4911	https://t.co/YNc9WC8ezY	Leading SCIENCESS Community Towards Unity and Excellence ¦¦ #mumtazmaan ¦¦ Kulliyyah of Science, International Islamic University of Malaysia, Kuantan
+14385531	BowdoinCollege	Bowdoin College	Brunswick, Maine	13599	2140	29317	https://t.co/Hndzvx1flK	A leading liberal arts college on the coast of Maine. #Bowdoin
+215317791	anadu21	Ana Duarte-UHU	Huelva	442	418	2737	None	Profesora de Tecnologia Educativa. Facultad de CC. de la Educación. Universidad de Huelva.
+107463521	_HamptonU	Hampton University	Hampton, VA	31187	488	10403	https://t.co/Itvy4HAioF	Welcome to Hampton University's Official Twitter Page! Follow us for frequent updates of University news and happenings. #HamptonNation
+213246655	go2uj	University of JHB	Johannesburg, South Africa	40712	422	9413	http://t.co/NQBPFd4NaE	The official University of Johannesburg twitter account. Related accounts Media: @mediauj Sport: @UJ_Sport Alumni: @UJAlumni
+418590070	EuropeanUni	European University	Florence, Italy	20873	71	5273	http://t.co/O15884MuiC	The European University Institute (EUI) is a distinctly international postgraduate teaching and research institute, opened in 1976.
+375946128	C_Duquette	C_Duquette		422	745	1847	None	History Educator/Didacticienne de l'histoire, Membre du CRIFPE, Prof. at Université du Québec à Chicoutimi
+1357362722	Kit_Photo_Club	九州工業大学 工学部 写真部	九工大工学部課外活動棟206	780	319	831	https://t.co/scpk32Vlsu	Kyushu Institute of Technology Photo Club銀塩写真の手焼き技術を受け継ぎ、日々活動中。デジタルも始めました。新入部員大募集！ 毎週金曜18時から部会を行ってます！活動の様子はメディアタブまたは、下記のURLから！撮影依頼も受け付けてます。
+1139113136	univpaulvalery	Université Paul-Valéry Montpellier	Montpellier, France	5929	474	6721	https://t.co/LHqTLT58WE	Université des humanités, connectée à la société 🎓 Arts, Lettres, Langues, Sciences Humaines et Sociales
+802366885719261185	hubeiuni	Hubei University	武汉，湖北，中华人民共和国	15	0	1	https://t.co/NqCpYLKbOe	Located in wuhan，China.  Founded in 1931，the famous university in China.
+29855980	udechile	Universidad de Chile	Chile	536884	86	69633	https://t.co/oaloYJ8H7g	Twitter OFICIAL del Club de Fútbol Profesional Universidad de Chile. ¡Síguenos! #VamosLaU 🤘
+40629323	AUC	AUC	Cairo, Egypt	25464	332	6079	https://t.co/4RK3JubqBN	The American University in Cairo, founded in 1919, is the premier English-language university in the Middle East.
+1351314799	andreilankov	Andrei Lankov	Seoul, Republic of Korea	6785	42	225	https://t.co/an0ZIqMnex	Director of @nknewsorg and Professor at Kookmin University in Seoul
+19980619	ualbany	University at Albany	ALBANY, N.Y.	45543	1831	31639	https://t.co/2bwXJeBpLj	At #UAlbany, we know greatness. For 175 years, we’ve been fueled by a unique mix of academic excellence, internationally recognized research. #UnleashGreatness
+40607879	Cornielles	José A. Cornielles	Vitória, Brasil.	663	194	2570	https://t.co/hdnXG3aMsI	Venezolano | Abogado | Becario OEA | Universidade Federal do Espírito Santo (UFES).
+185402454	UPLamar	University Press	Beaumont, TX	1994	1282	3955	https://t.co/1dlfWrd54y	The student newspaper of Lamar University & your #1 source for campus news, sports and events. 
+201 Parker Bldg 880-8102
+Advertising@LamarUniversityPress.com
+114363810	ipbofficial	IPB	Bogor, Jawa Barat	708880	198	21656	https://t.co/WS0gofX7YQ	The official IPB University Twitter account | Inspiring Innovation with Integrity | E-mail : biro.komunikasi@apps.ipb.ac.id
+1030809740	kitasatobot	北里トリビア（あるある）		2277	2289	629	None	在校生や受験生の皆さんに、北里に関する情報を流しています！Kitasato university.大村教授、ノーベル賞受賞おめでとうございます！！Nobel Prize Congratulations.
+51468468	IMTAtlantique	IMT Atlantique	Brest, Nantes, Rennes,Toulouse	8892	1057	7745	https://t.co/gLKuLVtmlS	Une grande école d'#ingénieurs associant #numérique, #énergie et #environnement #France Fusion de #MinesNantes et de #TelecomBretagne
+212260641	StonyBrookMed	Stony Brook Medicine	Stony Brook, NY	4113	4979	5077	https://t.co/KTlbbeaMDA	The best ideas in medicine.
+3117462929	Official_NUST	NUST	Islamabad, Pakistan	6891	56	4072	https://t.co/8ysN3GXkOl	Official Twitter account for National University of Sciences & Technology (NUST). RTs, likes or links ≠ Endorsement
+606234189	EruMedya	Erciyes Üniversitesi	Kayseri	15914	15	2940	http://t.co/nPAP9B8mK2	Erciyes Üniversitesi Resmi Twitter Hesabı
+59105248	UEL_News	Uni of East London	Docklands & Stratford, London	23188	943	15237	http://t.co/hfhWjjjl4w	The University of East London (UEL) is the careers-led university. Our mission is to prepare you for the jobs of the future.
+804597062	TUAlumniSA	TrinityU Alumni SA	San Antonio, TX	389	44	194	None	Trinity University Alumni - San Antonio Chapter. Featuring events and activities for Trinity University Alumni in San Antonio and surrounding areas.
+407117597	PLUS_RESEARCH	Universität Salzburg	Salzburg	1675	23	1023	http://t.co/lYKdwHe101	Forschungsnachrichten ausdem Forschungsservice der Universität Salzburg.
+22976992	USouthernMaine	University of Southern Maine	Portland, Gorham, Lewiston	7035	553	8150	https://t.co/R4JXFOB60W	Official account of the University of Southern Maine: Preparing students today for the world of tomorrow. #usmhuskygram. Athletics: @usmhuskies
+157829488	chosun_univ	chosun university	Gwangju/seoul, korea	1896	1809	4421	http://t.co/BnmDWpzI3E	INNOVATIVE CHOSUN HAPPY UNIVERSITY_조선대학교 http://t.co/BnmDWpzI3E
+12127162	babson	Babson College	Babson Park, MA	23216	938	11182	http://t.co/UQICSqpeNb	Babson is the educator, convener and thought leader for Entrepreneurship of All Kinds™.
+2903480051	otto_friedrich	Universität Bamberg	Bamberg	404	32	0	https://t.co/bn2cwYnBOi	Offizieller Account der Otto-Friedrich-Universität Bamberg, administriert vom Dezernat Kommunikation & Alumni (Z/KOM)
+1080003930	univ_parisseine	UniversitéParisSeine	Cergy-Pontoise	1124	320	963	http://t.co/tOFVCJeVdk	Université Paris Seine - Communauté d'universités et établissements (ComUE)
+1709852983	UniBasilicata	UniversitàBasilicata	Potenza e Matera.	1630	267	1654	https://t.co/HhQjI96LHe	Profilo ufficiale dell'Università degli Studi della Basilicata
+976641378162589696	LabSeki	関研究室@Nagoya Institute of Technology	名古屋工業大学6号館	19	9	41	https://t.co/ySz911GCkG	名古屋工業大学 関研究室の公式アカウント。大きなものから小さなものまで，振動の発生から抑制まで，安心・安全社会を支える「メカトロニクス基盤技術・モーションコントロール技術」の創生を目指しています。質問があれば気軽にリプライ・DMください。
+249844732	WestPoint_USMA	U.S. Military Academy	West Point, NY	88720	282	7381	https://t.co/UMCtQGW3gU	Official Twitter page of the U.S. Military Academy at West Point. Duty, Honor, Country. Visit https://t.co/UMCtQGW3gU (Following, RTs and links ≠ endorsement.)
+818249312	BernabePPT	Rafael Bernabe	San Juan, PR	10587	142	12075	https://t.co/5XbzpsrChW	Investigador en la Universidad de Puerto Rico, recinto de Río Piedras. Miembro del Partido del Pueblo Trabajador y del Movimiento Victoria Ciudadana.
+39559492	bauhaus_uni	Bauhaus-Uni Weimar	Weimar	3445	225	950	https://t.co/ltwgeTFK3P	Nachrichten aus der Bauhaus-Universität Weimar | Impressum: https://t.co/inOft04Z26
+862539704259956737	HALLYM_SGS	Hallym University Exchange	Chuncheon-si	9	43	70	https://t.co/o7efL15jib	
+70379556	unmdp	UN de Mar del Plata	Mar del Plata, Argentina	7900	35	2384	http://t.co/tTm4DnPFuP	Cuenta oficial de la Universidad Nacional de Mar del Plata.
+201235995	SpanJohn	Γιάννης Σπ	Heraklion,Crete	2135	2493	11778	http://t.co/Z5psa90p0N	Mineral Resources Engineering Student-Technical University of Crete. Snapchat:span_g
+275420009	universitereims	Université de Reims	France, Champagne-Ardenne	8196	293	16620	http://t.co/huyfDfUtdB	Fil Twitter officiel de l'Université de Reims Champagne-Ardenne #URCA
+70447611	Vassar	Vassar College	Poughkeepsie, NY	9670	474	4097	http://t.co/hGPrP6UDpQ	A highly selective, residential, liberal arts college located in the heart of the Hudson Valley in New York State. More tweets at @vassarnews and @vassaralerts.
+140004172	UnicamUffStampa	Unicam	Camerino	1407	364	2485	http://t.co/MGF508IkjV	Account Ufficiale dell'Università degli Studi di Camerino
+52487302	ncatsuaggies	North Carolina A&T	Greensboro, N.C.	49057	2099	19846	http://t.co/mjmyylOR4g	North Carolina Agricultural and Technical State University is a public,  land-grant, doctoral higher research university founded in 1891.
+1589586985	utrgv	UTRGV	Texas	10607	838	6119	https://t.co/v31wLkTYTd	Official UTRGV™ Twitter account. Innovation. Opportunity. Purpose. Careers. Questions? SocialMedia@utrgv.edu
+177951737	misuji_ryukyu03	Tatsunori Sato	NANJO CITY	661	2289	15336	None	University.of.The.Ryukyus/琉球大学大学院/KMITL/Thailand/D3/Regional Contemporary Architecture/タイ現代建築評論/マリサポです
+34744859	northerniowa	University of Northern Iowa	Cedar Falls, IA	36479	106	6311	http://t.co/pR796tLLKx	The official Twitter account for the University of Northern Iowa, the state's leading undergraduate and teacher education university.
+21862946	UAustraldeChile	Universidad Austral	Valdivia, Chile	15239	1865	17050	https://t.co/o4L8IpRd6N	Cuenta Oficial de la Universidad Austral de Chile, institución de educación superior, fundada el 7 de septiembre de 1954 en la ciudad de Valdivia.
+20525889	LSBU	London South Bank University	London, England	19194	2587	19599	https://t.co/hPozJCAS27	London South Bank University is one of the city's largest and oldest universities; transforming lives, businesses and communities since 1892. #TeamLSBU
+2530153147	CoachTuitele	Saga Tuitele	Albuquerque, NM	7021	1098	690	https://t.co/uX2ndhdFlB	OL Coach University of New Mexico
+16806285	uniofbeds	uniofbeds	Bedford & Luton, UK	13195	1015	12466	http://t.co/IN6fppVVpS	Official account of the University of Bedfordshire, a modern, innovative university with a heritage of top quality education going back more than 100 years.
+15824098	MissouriState	Missouri State	Springfield, MO	56961	229	24525	https://t.co/XQpF7EjLhv	The most fire tweets you’ll find from any Missouri institution of higher education. #GoMaroon
+560274055	kenki11	Kenki Fukuoka/福岡 堅樹		25708	127	2675	https://t.co/ZGrvZtGtF5	Rugby Player / Panasonic Wild Knights（2016〜）& Sunwolves（2017） ← Tsukuba University ← Fukuoka High School
+97386923	ToshioMatsudaE	Toshio Matsuda	Shinjuku, Tokyo	454	22	109501	http://t.co/ilbAiaUQPY	Representative Director at Society for SaaS/Cloud Parters; President & CEO at KitASP Corporation; Professor of Computer Science at Yamanashi Gakuin University
+1704419724	UdL_Recerca	Recerca a la UdL		810	210	2205	http://t.co/i7Pht2tnjR	Universitat de Lleida
+352596126	_siyarr	Siyabulela Releni 🇿🇦	People's Republic of China	1230	1083	37	https://t.co/bdk9FVa8NS	🎓Northeast Normal university, Mandarin Grad 🎓📚Central University of Finance and Economics 📚🌎E-commerce Major ✈into Travel 🏠Beijing, China
+20065487	TeessideUni	Teesside University	Middlesbrough, England, UK	43217	484	15890	https://t.co/do0ArY9Eyw	Teesside University is dynamic, energetic and innovative. We're growing and inspiring others to do the same. We're here Monday - Friday 9am - 5pm
+17447563	indianastate	Indiana State U	Terre Haute, Indiana	18580	57	6418	https://t.co/qSjhVhTlm0	Official Twitter feed for Indiana State U. One of America's top colleges for quality & value. We're for hands-on learning & service. #MoreToBlue 🌳⛲️
+3443586434	IShouUniversity	義守大學I-Shou Universit		4	0	33	None	
+235573486	sbkaufman	Scott Barry Kaufman	New York, NY	31855	2675	19684	https://t.co/RSYSlp0903	Psychologist at Barnard College, Columbia University exploring the depths of human potential | Host @psychpodcast | Columnist @sciam
+1223037984	HSU_News	Humboldt State	Arcata, CA	1445	1804	1137	https://t.co/gcLTTcUc0H	News and information from Humboldt State University.
+108651709	UTChattanooga	UTChattanooga	Chattanooga, TN	18959	662	16859	https://t.co/fKccV39h5I	Official Twitter of The University of Tennessee at Chattanooga (UTC). Home of the Mocs! We Shall Achieve. #GoMocs #UTChattanooga
+90582735	pinzger	Martin Pinzger	Klagenfurt, Austria	934	83	709	https://t.co/3fa1JFoVDL	Professor of Software Engineering at Alpen-Adria-Universität Klagenfurt
+972563864	EnactusMans	Enactus Mansoura	Mansoura, Egypt 	1737	2	1669	None	The official twitter account for enactus Mansoura University. Empowering people in need through positive power of business.
+18240228	deusto	Universidad Deusto	Bilbao, San Sebastián, Madrid	24830	1316	15248	http://t.co/AHcbsIOqzr	#Universidad de Deusto / Deustuko #Unibertsitatea / #University of Deusto. Sapientia melior auro
+385843469	UVa_es	Gabinete de Comunicación Universidad de Valladolid	Valladolid	47843	424	19690	http://t.co/Wv5LsCbTkS	Cuenta oficial del Gabinete de Comunicación de la Universidad de Valladolid, uno de los centros de Enseñanza Superior más antiguos e importantes de España
+246170080	pyjamads	Mads Johansen Lassen	Copenhagen, Denmark	851	1340	4703	https://t.co/DfH9PE0JaW	PhD Fellow at IT University of Copenhagen and Co-Founder of @glitchnap : @LAZAKNITEZ - https://t.co/EdfDUTAmgZ - https://t.co/vbgl258o8n
+1883805210	UPCTnoticias	Universidad Politécnica de Cartagena - UPCT	Cartagena, España	6343	1286	13874	http://t.co/EGCETuAeWK	Perfil Oficial de la #Universidad #Politécnica de #Cartagena. El #futuro y la #innovación empiezan aquí.
+797809363	SQU_Info	جامعة السلطان قابوس	Muscat, Sultanate of Oman	91404	28	6456	https://t.co/R8ipBJrpzM	الحساب الرسمي لجامعة السلطان قابوس وتُديره دائرة العلاقات العامة والإعلام | The Official Account of Sultan Qaboos University | @SQUAnwaar
+551067361	nguyenluan96	Nguyễn Luân	Hà Nội	5259	1461	884	http://t.co/XjJjq5Ryvy	Hanoi University of Science & Technology
+22070580	AthabascaU	Athabasca University	online. everywhere.	13272	1584	12259	https://t.co/SdxJXT7rd0	News from Athabasca University, a leading Canadian online university focused on the future of learning. Answering Qs Mon-Fri 8:30 to 4:30 p.m. #AthabascaU
+1088233115602960385	thuscience	東海大學理學院 The Science College of Tunghai University		11	56	8	None	
+19980619	ualbany	University at Albany	ALBANY, N.Y.	45543	1831	31639	https://t.co/2bwXJeBpLj	At #UAlbany, we know greatness. For 175 years, we’ve been fueled by a unique mix of academic excellence, internationally recognized research. #UnleashGreatness
+67562665	VGTU_university	VGTU	Lithuania	432	1	910	http://t.co/6Zrqs13LDy	Vilnius Gediminas Technical University. Innovations Meet Creativity.
+140745558	INSAToulouse	INSA Toulouse	Toulouse, France	6812	297	1662	http://t.co/uGPI4Z3ITj	L'INSA Toulouse, Institut National des Sciences Appliquées de Toulouse, forme des ingénieurs de haut niveau présents dans tous les secteurs de l'économie.
+1058787942	wohlgemu	Michael Wohlgemuth	Berlin	2259	1432	10687	http://t.co/Z0X103LCtr	Direktor, Open Europe Berlin gGmbH, Professor für Politische Ökonomie an der Universität Witten/Herdecke
+21433963	EMUAthletics	EMU Athletics	Ypsilanti, Mich.	9958	1046	17572	https://t.co/xndlgoQjNB	Official Twitter of Eastern Michigan University Athletics #EMUEagles
+236119147	_ignorethehype	Saitama	Islington, London	911	695	30013	https://t.co/fFA2Qm1Cfh	University of Maryland Alumnus | 🇺🇸✈️🇧🇲✈️🏴󠁧󠁢󠁥󠁮󠁧󠁿
+28751728	jleibold	James Leibold	Melbourne AUS +61 448833601	6185	1304	3020	https://t.co/nAg4E8jFVk	Associate Professor, La Trobe University: ethnic relations, ethnic policy, and the history of 民族 in China and weiwen & survillance methods in Xinjiang/Tibet
+426538525	psmundip	PSM Undip Official	Semarang, Indonesia	2325	411	7161	https://t.co/9ZgxF7gHdu	The Official Twitter of Paduan Suara Mahasiswa Universitas Diponegoro (Diponegoro University Choir) Semarang | 📩: psmundip@yahoo.com | CP: 0857 41224199 Adis
+1059750497777790976	ItcaOf	ITCA University of Tabriz		10	33	14	None	
+128898396	univ_lyon2	Université Lyon 2	Lyon - France	18605	454	5943	https://t.co/tyLGdAiFz3	Université Lumière Lyon 2
+186739448	ISCTEIUL	ISCTE - IUL	Lisbon, Portugal	3388	376	3574	https://t.co/VcuG9v02kd	ISCTE-Instituto Universitário de Lisboa é uma instituição de ensino público criada em 1972. ISCTE-IUL is a public university created in Lisbon in 1972.
+82114861	NESCAC	NESCAC	Hadley, Mass.	12124	268	19254	https://t.co/64KtQU0YKb	New England Small College Athletic Conference is: Amherst, Bates, Bowdoin, Colby, Connecticut College, Hamilton, Middlebury, Trinity, Tufts, Wesleyan, Williams
+263686223	CanadianEm	Emily Sturgeon	Nova Scotia, Canada	898	554	64721	None	IBMer, Saint Francis Xavier University graduate. I love the Simpsons and pizza. Views are my own
+10266732	lucasmilhomens	lucasmilhomens	Planeta Amazônia	557	797	1530	None	Professor de Comunicação da Universidade Federal do Amazonas (Ufam), na Ilha de Parintins. Eterno viajante deste planeta Brasil.
+998730160290512896	hosei_gis	Hosei university, GIS（法政大学GIS）		109	1	40	https://t.co/jfoEJ1wvSN	This is the official account used for
+information announcements regarding the GIS at Hosei University. Please note, we do not respond to private
+enquiries.
+108280369	Univcordoba	Universidad Córdoba	Córdoba, España	46549	350	12434	http://t.co/l72JXZ711c	Somos una de las instituciones científicas y educativas de mayor prestigio nacional, con una amplia oferta de títulos de grado y postgrado. Lideramos @cei_A3
+189055185	Kmitlnews	KMITL	BANGKOK, THAILAND	2376	3	6902	https://t.co/XGu4Dgr3tj	King Mongkut's Institute Of Technology Ladkrabang, Thailand. (established in 1960)😀 #สจล
+75116881	DRIScience	Desert Research Institute	Nevada / Worldwide	4191	1584	2296	https://t.co/KvZiRsv2p1	World leader in environmental research and technological innovation • @NSHE campuses in Reno and Las Vegas • Projects on all seven continents 🌍 #DiscoverDRI
+14420319	colgateuniv	Colgate University	Hamilton, NY	21092	4363	36215	https://t.co/twUm7ZPafs	News and Updates from Colgate University.
+916275770020040715	BibliotekaPG	Biblioteka PG	Gdańsk, Polska	286	835	2179	https://t.co/I1xY5Bo8E4	Aktualności z życia Biblioteki Politechniki Gdańskiej i nie tylko  / Updates from the Gdańsk University of Technology (GUT) Library and more … 😀
+457459276	wacchi1013	Yuta Watanabe 渡邊 雄太		82161	396	3746	None	Jinsei Kagawa Japan →St. Thomas More Prep→George Washington University →Memphis Grizzlies/Hustle
+148175666	cmcldi	이동익신부 Fr.Dong-Ik LEE	Seoul	1156	69	426	http://t.co/CwEMzRMFpU	Roman Catholic Priest / Pastor of Bangbae 4dong Parish/ Prof. Emeritus,  College of Medicine, Catholic University of Korea
+19272796	RutgersU	Rutgers University	New Jersey	130445	574	14418	http://t.co/stAPJIzh8b	Rutgers, The State University of New Jersey, is a leading public research university. Follow us for all things Rutgers.
+5794972	SetonHall	Seton Hall	South Orange, NJ	12446	148	11611	https://t.co/bxwFIVuOes	As one of the nation's leading Catholic universities, Seton Hall has been showing the world what great minds can do since 1856.
+334545091	thomas_wahl	Thomas Wahl	Västerås, Sweden	395	640	1343	https://t.co/nLhaMyTeb9	Akademichef vid Mälardalens högskola/ Dean of school at Malardalen University, Sweden.
+16563472	Suffolk_U	Suffolk University	Boston, MA	14882	364	14654	https://t.co/3uOJwKnrOh	Boston's Downtown University. Study just steps away from the State House, Financial District, and Boston's vibrant cultural scene. Snap/Insta: suffolk_u
+395208330	bmeessen	Bruno Meessen	Antwerp, Belgium	1877	503	1255	https://t.co/h7dJT9b3Xw	Heatlh economist based at the Institute of Tropical Medicine, Antwerp. Health sector reform in low-income countries & communities of practice.
+29488232	MSMU	Mount St. Mary's U	Emmitsburg, MD	6237	844	14239	https://t.co/wLXmrkYVgj	Mount St. Mary’s is America’s second-oldest Catholic university, rooted in the liberal arts. sc:msmuniversity
+115775168	TecdeMonterrey	Tecnológico de Monterrey	México	500176	452	21396	https://t.co/u9qpbO7V9Y	Cuenta Oficial.
+
+Al interactuar otorgas autorización para que tu publicación se utilice para lo previsto en https://t.co/mswwfhXroy
+23678902	bentleyu	Bentley University	Waltham, Massachusetts, USA	17861	4868	16629	https://t.co/hKc3NvJBZR	Official Bentley University Twitter
+62377474	About_Jean	Jean dos santos	São J.dos Pinhais -Pr - Brasil	176	257	3382	http://t.co/CyaeQWYyCk	Estudante de Eng.de Produção na Pontifícia Universidade Católica do Paraná(PUCPR) e trabalho no Controle de Qualidade na empresa Schattdecor do Brasil
+35552312	brianghudson	Brian Hudson		586	500	1078	https://t.co/GFHw86gduL	Professor of Education, Emeritus Prof, University of Sussex/Senior Prof in Educational Work, Karlstad University, Sweden. All views expressed are my own.
+223951367	helmi_khairi	helmiimiimii	Kuala Lumpur 	1431	749	22797	https://t.co/DbnsP8S4ub	#KTBFFH Universiti Malaysia Perlis 🎓
+18681742	UPEI	University of PEI	Prince Edward Island, Canada	20011	22	5022	http://t.co/7s0mNzjWx2	The official Twitter account of the University of Prince Edward Island.
+19782237	harveymudd	Harvey Mudd College	Claremont, California, USA	6791	621	4856	http://t.co/eeauTeN5gp	Harvey Mudd educates the nation’s brightest engineers, scientists and mathematicians to be passionate problem solvers who understand their impact on society.
+226176253	WSOpen	Winston-Salem Open	Winston-Salem, NC	7349	322	4361	https://t.co/N9CTWXQzAb	2017 Winston-Salem Open at Wake Forest University | Winston-Salem, N.C. | August 19-26, 2017.
+1916302158	MD_Nalapat	Prof. Madhav Nalapat	India	16736	205	8906	https://t.co/RuJ1Pk2r6B	Editorial Director, iTV Network (https://t.co/IYOhJIxmY9) ✦ UNESCO Peace Chair & Vice-Chair of MARG at Manipal University ✦ Tweets/DMs by TEAM unless signed ‘^MN’
+199051868	unipimun	University of Piraeus MUN Society		125	156	38	None	Η Ομάδα φοιτητών του Πανεπιστημίου Πειραιώς είναι υπεύθυνη για την οργάνωση και την προετοιμασία αποστολών φοιτητών σε Μοντέλα Διεθνών Διαπραγματεύσεων-MUN.
+15006628	UOPacific	University of the Pacific	Sacramento, San Francisco, Stockton	6617	284	12985	http://t.co/3sxJPZx5dl	A highly-ranked national university providing personal, student-centered liberal arts and professional education in Stockton, Sacramento & San Francisco
+430242088	RobertKlitgaard	Robert Klitgaard	Claremont, CA	1183	574	1883	https://t.co/4EBpg6NRB6	University Professor, Claremont Graduate University.
+63777448	LaurentianU	Laurentian University	Greater Sudbury /Grand Sudbury	13020	2458	17582	https://t.co/iMMqQpi1mp	Laurentian University / Université Laurentienne. Explore our beautiful campus, it's all here. Découvrez la Laurentienne, tout y est.
+14049061	OpenUniversity	The Open University	UK	149471	348	26988	https://t.co/qGXHfIJnZY	Open to people, places, methods and ideas. The Open University provides high-quality university education to all.
+29245121	KenyonCollege	Kenyon College	Gambier, Ohio	10413	837	8895	https://t.co/G5uUKP9Sb3	Founded in 1824, #KenyonCollege offers small class sizes and a strong liberal arts foundation to 1,700 writers and thinkers. FB, Snap, Insta: kenyoncollege
+94528246	wansherhan	Wan Sherhan (Dr.WS)	Kota Kinabalu, Sabah	363	305	9077	https://t.co/PeHNfHCpXA	Anaesthesiology & Intensive Care Medical Officer QEH II , Ain Shams University (MB BCh)
+125688706	SyracuseU	Syracuse University	Syracuse, New York	76694	788	29416	https://t.co/AgQgM86G8n	Syracuse University is dedicated to rigorous scholarship and transformative research. #SyracuseU on-campus news: @SUCampus. Instagram: @SyracuseU. Go Orange! 🍊
+2534909498	PrzRacingTeam	PRz Racing Team	Rzeszów  Poland	335	336	1687	http://t.co/cep3yBbVGv	Formula Student racing team
+Represents the Rzeszów University of Technology  http://t.co/bth6PXFlDI
+26748475	UMDBulldogs	UMD Athletics	Duluth, MN	14974	732	24991	http://t.co/zWo4Ju2bvv	The official Twitter account for the University of Minnesota Duluth Bulldogs #BulldogCountry
+24048295	BardCollege	Bard College	Annandale-on-Hudson, NY	10184	1879	6196	http://t.co/LxMQ1qMP4y	Bard College offers a rigorous undergraduate curriculum in the liberal arts and sciences, with a global network of affiliated programs.
+40121967	SeattlePacific	Seattle Pacific University	Seattle, WA	6656	600	20793	http://t.co/qPWkIYD7yl	SPU is a leading Christian university equipping people to engage the culture and change the world. For news updates, follow @SPUnews. Instagram: seattle_pacific
+18958185	pomonacollege	Pomona College	Claremont, CA	9614	512	9992	http://t.co/U6aMCWaVsp	Pomona College, the founding member of the Claremont Colleges, is a premier liberal arts college in Southern California.
+273449372	SEEUniversity	SEE University	Tetovo, Macedonia	669	542	2960	http://t.co/0dfhPqJwka	The South East European University is the first private-public non-profit university in Republic of Macedonia.
+98157931	AcadiaU	Acadia University	Wolfville, Nova Scotia	11855	4782	20278	http://t.co/EkrLG2Wnxk	#AcadiaU is where learning means living, every moment.
+68402737	ufabc	UFABC	Santo André, SP - Brasil	4169	124	2916	http://t.co/1q3abn1PhX	Perfil oficial da Universidade Federal do ABC (UFABC) https://t.co/Tci8aQkIgm https://t.co/08nClnYnLa
+https://t.co/AldFndqkJk
+33167920	RoehamptonUni	Uni of Roehampton	London	25070	618	12530	https://t.co/X8rp6BuEAB	At the University of Roehampton, we offer a unique academic experience on a beautiful, vibrant, parkland campus only 30 minutes from London's West End. 💚
+278288812	ITeachStrategy	Sadia Tasleem		783	270	268	None	Lecturer, Dept. of Defence & Strategic Studies, Quaid-i-Azam University, Islamabad
+390121701	CasiraghiElena	Elena Casiraghi, Ph.D.	Milan	2233	634	3260	https://t.co/zQuq5lmuwA	Specialista in Nutrizione e Integrazione dello sport. Responsabile Enervit Nutrition Center-Equipe Enervit. Docente a contratto Università degli Studi di Pavia.
+1264006747	hirosaki_univ	弘前大学	青森県弘前市	2086	0	2748	https://t.co/WpWFG8KDgo	弘前大学の公式Twitterアカウントです。弘前大学に関する情報を発信しています。 WEBマガジン「HIROMAGA（ヒロマガ）」も配信中💡https://t.co/mdsYshvLgO（2019/2/28更新📝）
+48434251	UWEauClaire	UW-Eau Claire	Eau Claire, WI	14544	3541	11338	http://t.co/Cl5wVYFgER	The official Twitter account of the
+University of Wisconsin-Eau Claire. 
+#UWEC #Blugolds
+3169876174	UnivofGhana	University of Ghana	Legon	5023	103	659	http://t.co/kg7hfMufRd	The official Twitter account of the University of Ghana. Our vision is to become a “World Class research-intensive University” over the next decade.
+398786267	VSCHT	VŠCHT / UCT Prague	Prague, Czech Republic	886	383	2558	http://t.co/OuuuchK0zh	University of Chemistry and Technology, Prague. 
+Leading educational and research institution of all things chemical and beyond.
+39975307	DerbyUni	University of Derby	Derby, Midlands, UK	38959	3944	28254	https://t.co/K229rn3qNM	We're Top 30 in the Guardian University Guide 2019 and rated as GOLD in the Teaching Excellence Framework. Share your tweets with us #DerbyUni
+51540474	singhabhi	Abhijeet Singh	Stockholm, Sweden	3533	1422	2186	https://t.co/MS7DWaCawc	Development economist. Assistant Professor at the Stockholm School of  Economics @handels_sse. Previously @EconUCL, @yloxford, @NuffieldCollege.
+123225764	JMAlvaradoA	JMAlvaradoA	Caracas, Distrito Capital	734	1013	5825	None	Profesor de Derecho Constitucional, Universidad Francisco Marroquin, Universidad Central de Venezuela & Universidad Catolica Andres Bello.
+94297993	ricardmp	Ricard Marxer	Toulon, France	618	721	430	https://t.co/hPS0ZKQdH7	ml, audio, nlp, speech // Assoc. Prof. at Université de Toulon, researcher at LIS CNRS UMR 7020
+168495853	gaziantepUniv	Gaziantep Üniversitesi	Gaziantep, TURKEY	28980	98	9701	http://t.co/FIFNCf6peN	Gaziantep Üniversitesi Resmi Twitter Hesabı
+544223101	selcukrektorluk	Selçuk Üniversitesi	Konya, Türkiye	23580	12	6301	https://t.co/XOs4e7XOc2	Selçuk Üniversitesi Resmi Twitter Hesabı
+111259322	RobertGordonUni	RobertGordonUni	Aberdeen, Scotland	33051	1700	11141	http://t.co/c19kAZm0Gq	The top #university in Scotland for graduate employability. Renowned for teaching excellence, industry links, skills development and impactful research.
+66952977	StaffsUni	Staffordshire Uni	Staffordshire, England	33228	1670	34721	https://t.co/mAJAC58MzC	@StaffsUni you’re connected to the world and everything in it. We’re the Connected University. #ProudToBeStaffs
+1044910402708992000	imukochismm	Indian Maritime University, Kochi - SMM	Kochi, Kerala	81	70	97	https://t.co/lAueTkNZs2	The Official Twitter Account of School of Maritime Management - IMU, Kochi . A Central University under the Ministry of Shipping. Retweets are not endorsements.
+3456994157	ragnhildDybdah1	Ragnhild Dybdahl		676	1200	1635	None	Associate professor of psychology at Oslo and Akershus university college of applied sciences. Former policy director at NORAD, diplomat and clinician.
+47344735	ipade	IPADE BusinessSchool	México	23940	160	11411	http://t.co/7sEqFVNB8M	El Instituto Panamericano de Alta Dirección de Empresa (IPADE Business School) es la escuela de negocios de la Universidad Panamericana. Fue fundada en 1967.
+633251392	gezgin_bebe	Seyahatsever		985	393	22083	None	Karadeniz Technical University'16🎓 Sencil🍬  
+Çaykolik🍵 
+Okur📖 
+Gezer🌍
+ Fotoğraf Çeker📷 
+17 Country🗺32 City
+2927245195	UAEH_OFICIAL	UAEH	México , Hidalgo, Pachuca	9782	108	3243	https://t.co/eMXy0426k5	La Universidad Autónoma del Estado de Hidalgo es una de las mejores universidades de México. Como Institución Pública tiene un compromiso con la sociedad global
+24989413	eku	EKU	Eastern Kentucky University	16812	244	10908	https://t.co/O2ZTTKGvbm	Discover the #EKUPeople, #EKUPlaces, and #EKUPrograms that make #EKU a great University. #GoBigE | IG: easternkentuckyu
+620662230	UnivKansai	関西大学	大阪府 吹田市 山手町 3丁目3番35号	10584	359	6472	https://t.co/b77eOo1w67	関西大学の（公式）Twitterです。HPの補完的な位置付けとして、本学に関する情報等を発信します。（発信専用）　　〔1886（明治19）年創立／13学部・13大学院研究科・3専門職大学院・1留学生別科・8併設校／5キャンパス／学部学生数28,872（男17,147、女11,725）：2018/5/1現在〕
+407664058	uwshealth	UWS School of Health	The West of Scotland	2687	134	1972	https://t.co/g2NdUzJQk2	The School of Health, Nursing & Midwifery at the University of the West of Scotland. Campuses in Ayr, Dumfries, Hamilton, Paisley and London.
+358840407	sebastiani64	Enric M. Sebastiani	Barcelona	3991	1366	9579	None	Secretari Acadèmic i professor del Grau en CAFE a Blanquerna (Universitat Ramon Llull) - Vicepresident de la Fédération Internationale d'Education Physique FIEP
+15855913	elonuniversity	Elon University	Elon, NC	23691	419	16397	https://t.co/6e1qZlf42h	Elon University is the premier student-centered learning environment, preparing graduates to be the ethical leaders the world needs.
+316980605	LeMansUniv	Le Mans Université	Le Mans - Laval	4035	202	2753	http://t.co/HWwkfA7VM9	Compte officiel
+3213518355	AKUGlobal	Aga Khan University		19216	764	1988	https://t.co/pxScSWWAbM	Our official channel: AKU educates leaders, embodies excellence, fosters pluralism and creates solutions for the developing world.
+182363468	HPI_DE	Hasso-Plattner-Institut	Potsdam	9222	1877	6944	https://t.co/VCpYRbwcjr	Das Hasso-Plattner-Institut vereint exzellente #Forschung und #Lehre im #DigitalEngineering. - https://t.co/3UX8NCUgE3
+734556107587231744	lingnanuni	Lingnan University	8 Castle Peak Road, Tuen Mun, New Territories, Hong Kong	209	6	263	https://t.co/FQ5jdI3Vwu	Lingnan University is the only liberal arts university in Hong Kong and was named as one of the Top 10 Liberal Arts Colleges in Asia by Forbes in 2015.
+85585265	AmityPresident	Atul Chauhan		8788	1370	164	https://t.co/vEWvrsZ7qX	President of not-for-profit Amity Education Group. 150,000+ students in Universities/schools across 15 Countries. India, London, New York, Singapore, Dubai...
+18848795	LondonMetUni	London Met Uni	London	18601	215	14640	http://t.co/G6sMtFWLej	The official London Metropolitan University Twitter page, keeping you up to date with university and London life. Account monitored 9am-5pm, Mon-Fri.
+385107877	ManhattanEdu	Manhattan College	Riverdale, NY	6701	759	8043	http://t.co/uAaBTeY7qi	Manhattan College provides its students with a personalized classroom setting and big-city opportunities.
+157316411	UnivParis8	Université Paris 8	Saint-Denis, France	18364	457	8836	https://t.co/UQ48SHZU4G	Suivez toute l'#actu de l'université #Paris8 : conférences, colloques, projets étudiants, événements culturels…
+269846882	61503891	M. Higashino	Tottori-ken, Japan	739	2253	46417	https://t.co/icrRgxXmwL	Assistant Professor, Tottori University / Mobile Agent, Distributed System, Ruby, Java, Prolog.
+139810125	wvumediacollege	WVU College of Media	Morgantown, WV	5119	2334	10090	http://t.co/5s2DbaqkMD	The WVU Reed College of Media is a student-centered college that has been graduating mass communications specialists since 1939.
+15917429	PalmerMuseum	PalmerMuseum	State College, PA	3225	462	1081	http://t.co/yMUg70AFDA	The Palmer Museum of Art on Penn State's University Park campus is a free-admission arts resource for the University and surrounding communities.
+788624717854957568	Teika1025	帝京科学大学	東京都足立区、山梨県上野原市	1637	0	102	https://t.co/R5OAEEwpFC	帝京科学大学アカウントです。個別にお寄せいただいたご意見・ご質問にはこのアカウントでは対応しておりませんのでご了承ください。instagramページはこちらへ→https://t.co/zDu74LcNzZ
+47586370	MyBCU	Birmingham City Uni	Birmingham, UK	34404	802	22227	https://t.co/ShNZlcd5SV	This is Birmingham City University's main Twitter account. For press enquiries please follow @BCUPressOffice.
+14160987	pepperdine	Pepperdine University	Malibu, CA	14767	357	7457	https://t.co/8Pn3NXbRhr	The official account of Pepperdine University. Strengthening lives for purpose, service, and leadership.
+27706377	Macalester	Macalester College	St. Paul, MN	9181	298	5390	https://t.co/yeVvqdetVi	Education for a world stage. For alumni: @macalumni. For athletics: @macathletics. For admissions: @macadmission. #heymac https://t.co/s9XNQpfCHv
+20159808	UMCES	UMCES	Maryland	3593	1847	5765	http://t.co/BSNc9uFoWx	100 faculty, 90 graduate students, 4 research campuses, 1 mission: exploring the world and our backyard to better understand and manage the environment.
+979575354	vis_hgc_jp	vis.hgc.jp	Tokyo	103	227	238	http://t.co/91Xgsa13	Information Visualization of Biological Data at the Human Genome Center, Institute of Medical Science, University of Tokyo, Japan. Georg Tremmel @trembl
+1930911	CalvinCollege	Calvin College	Grand Rapids, Michigan, USA	11928	316	13851	http://t.co/Ntq5WIGGyH	Calvin College equips students
+to think deeply,
+to act justly,
+and to live wholeheartedly
+as Christ’s agents of renewal in the world.
+28607823	numanis	Ismail Numan Telci	sakarya, turkey	1766	1191	4637	None	Sakarya University - Middle East Institute
+16132544	IthacaCollege	Ithaca College	Ithaca, NY	25706	159	13568	https://t.co/FMCyz6zdzn	Theory, Practice, Performance. These elements are the core of the Ithaca College experience—today and every day since our founding over 125 years ago.
+15835554	UWWhitewater	UW-Whitewater	Whitewater, WI	12442	974	4796	http://t.co/ZcwoW7WCIp	Find out why UW-Whitewater rocks by following campus news and events on Twitter.
+2511237151	BarstoolLoyola	Barstool Loyola	Baltimore	1178	331	858	https://t.co/khCCLDUXwI	Direct affiliate of @barstoolsports | Not Affiliated with Loyola University Maryland | Follow IG @barstoolLoyola
+47013756	TaishaJason	Jason Harris	Japan	998	546	14144	https://t.co/82c0TdhnS9	I used to be a JET Programme ALT from 2004-2009. Then I taught at a university in Shimane from 2010-2016. Now, I am teaching history at a private high school.
+34963069	donau_uni	Donau-Uni Krems	Krems, Austria	1997	166	2506	http://t.co/3G240Y5Wkq	Donau-Universität Krems - die führende Universität für Weiterbildung in Europa.
+43096601	UFLAJr	UFLA Júnior	Lavras	696	202	1105	https://t.co/uxnGfyrzpx	Empresa de Consultoria Administrativa da UFLA - Universidade Federal de Lavras
+4004621	siio	Itiro SIIO	iPhone: 35.565224,139.471939	1201	190	8096	http://t.co/n2Q6WkjMlb	is a professor in at Ochanomizu University, Tokyo, Japan, and teaching HCI and ubiquitous computing.
+91770158	uqu_edu	جامعة أم القرى	Kingdom of Saudi Arabia	269461	6	6793	https://t.co/L8wpf2NVyP	Umm Al-Qura University @ Makkahالحساب الرسمي لجامعة أم القرى
+562787931	Vintersportcent	Vintersportcentrum	Östersund, Sverige	823	401	960	https://t.co/zytCPVhYUd	The Swedish Winter Sports Research Centre, part of Mid Sweden University, is world-leading in snow sports research and the Olympic test centre for winter sports
+775407	pjames	Peter James	Prince George B.C.	2195	2430	28705	http://t.co/uY4J52g7IN	Dad, husband, sports fan. Communications Officer at the University of Northern British Columbia. SLAMPEE bingo champion.
+2834592292	KalleJonasson	Kalle Jonasson	Helsingborg, Sweden	380	256	1983	None	Lecturer in Early Childhood Education at Halmstad University.   Philosopher of Movement.
+16422886	IUPedu	Indiana Univ of Pa.	Indiana, PA	14529	232	19130	https://t.co/UbK7lQxlR6	Find yourself. Find your success at IUP.
+198887843	LaUASLP	UASLP	San Luis Potosí, México	16604	344	22555	https://t.co/Vm7YdWGEWR	Universidad Autónoma de San Luis Potosí: Siempre autónoma. Por mi patria educaré. #YoSoyUASLP
+201068622	CWUSOFTBALL	Central Washington Softball	Ellensburg, WA	1070	241	2248	https://t.co/O9v7vPBeti	Official Twitter of The Central Washington University Softball Team. #GoCWUSoftball https://t.co/Nty4Wkxtw7
+3038718439	TEDxUBrawijaya	TEDxUniversitasBrawijaya	Malang, Indonesia	313	37	453	https://t.co/p3OuSuCeHE	Independently organized TED event in Brawijaya University. Contact us : tedxbrawijaya@gmail.com
+165894671	WCUofPA	West Chester U	West Chester, PA	17432	1723	9843	https://t.co/7vU6yUjJc6	West Chester University's official twitter. Your source for WCU news, campus events, announcements and more! #RamsUp
+48289662	UniofOxford	Oxford University	Oxford, UK	503849	998	14879	http://t.co/JI4HOdo6ce	Official Twitter account for the University of Oxford, one of the world's leading universities.
+400109724	DezmeriAlex	Alexandru Dezmeri	Timisoara	481	104	11315	https://t.co/1RhRltrR28	Sometimes I just want to give it all up and become a handsome billionaire. (Glad to have a friend like you.) Student at West University of Timişoara.
+950949198	Akdenizun	Akdeniz Üniversitesi	Antalya, Türkiye	36192	184	11662	http://t.co/Uo3SWmZC	Akdeniz Üniversitesi Resmi Twitter Hesabı - Official Twitter Account of Akdeniz University
+57400495	AdelphiU	Adelphi University	Garden City, NY	7673	485	27974	http://t.co/eatJoCfk0a	Adelphi is dedicated to transforming students’ lives through small classes with world-class faculty, hands-on learning and innovative programs.
+350880390	Hunter_College	Hunter College	New York City, New York	10249	1052	4696	http://t.co/nwWGO1gYK2	Founded in 1870, Hunter is the largest college in the City University of New York (CUNY) and is one of the oldest public colleges in the country.
+211439051	EMUOFFICIAL	EMU/DAÜ	North Cyprus - Kuzey Kıbrıs	7689	1485	6113	http://t.co/hitdBR39JR	EMU Official Twitter Account / DAÜ Resmi Twitter Hesabı
+3380146433	liaoning_univer	Liaoning University	People's Republic of China	97	763	12	http://t.co/3n03CJzDNr	Liaoning University (Chinese: 辽宁大学;) is a leading universities in Liaoning, People’s Republic of China. It is located in the northern part of Shenyang.
+56401720	poulinb	Bruno Poulin	Trois-Rivieres, Qc, Canada	496	209	5593	http://t.co/iNygIzP6Oi	Conseiller pédagogique en technologie éducative à l'Université du Québec à Trois-Rivières.
+
+Responsable de la veille technopédagogique.
+159369444	misisRu	НИТУ «МИСиС»	Москва, Ленинский пр-т, д. 4	3931	2545	1977	http://t.co/xDdjGvhVTW	Оffициальный Твиттер университета
+130186856	GonzagaU	Gonzaga University	Spokane, WA	17016	1540	11787	https://t.co/Zxrfmefv83	Official profile for Gonzaga University. We are a Jesuit institution focusing on mind, body, and spirit. https://t.co/Tp4Tqg9qon #GoZags
+47914316	UnivAvignon	Avignon Université	Avignon	10010	275	1959	https://t.co/X3GVup209i	#UnivAvignon
+624823574	SPEITSSC	SPE ITS SC	Surabaya, Indonesia	1095	72	1688	https://t.co/wBIIbs5lcU	Official Twitter Account of Society of Petroleum Engineers Institut Teknologi Sepuluh Nopember Student Chapter. #SPEITSSC #AdvancingSynergy #CarvingHistory
+107640507	dmiyazaki	Donald Miyazaki	Vancouver, BC	844	519	2772	None	Executive Director at the PGA of British Columbia, Simon Fraser University Alumni
+1694752002	NP_BaseballD3	New Paltz Baseball	New Paltz NY	511	143	499	https://t.co/vwIkbDON9K	The Official Twitter Page of State University of New York at New Paltz Baseball Program #GoHawks #FlyHigh #Hawkup
+955799800078794752	ETU_iktisat	TOBB ETÜ iktisat	Ankara, Turkey	629	163	449	https://t.co/EbAfH5l3Z1	Department of Economics, TOBB University of Economics and Technology/ TOBB Ekonomi ve Teknoloji Üniversitesi İktisat Bölümü
+3300824593	UnivOfPune	University Of Pune	Pune, Maharashtra	583	8	28	https://t.co/X8pAWxxHmo	Circa 1949. 'Oxford of the East'. One Of India’s
+Premier universities. Visit website admission news. Now renamed - Savitribai Phule University Of Pune.
+176878617	QC_News	Queens College|CUNY	65-30 Kissena Boulevard | Queens NY	9214	2350	6365	https://t.co/C3XuEBb9YR	Highlighting faculty, student and alumni news; initiatives; and events for the media and local and global communities. Queens College, Est. 1937.
+882934718	fgcu	FGCU	Fort Myers, FL	11928	214	4977	https://t.co/D6QPEmRa1G	FGCU, with its innovative programs, technology friendly campus, and outstanding faculty, is one of the most exciting educational environments in America.
+526280300	joekadhi	Joe Kadhi	Nairobi	2302	63	1212	None	Former Managing Editor Daily Nation; taught journalism at the University of Nairobi as well as Addis Ababa University.Now retired from USIU after 20 years !
+798869515	helloUTHM	HelloUTHM	Parit Raja, Batu Pahat	2454	555	887	None	The largest Twitter Community in Universiti Tun Hussein Onn Malaysia (UTHM)
+197329969	unileoben	Montanuniversität Leoben	Leoben	111	99	50	http://t.co/2wUsfA3Fva	
+4699919869	AmritaCreate	AmritaCREATE		154	26	24	https://t.co/DSrVSqjVXp	AmritaCREATE is an award-winning, research & technology initiative of Amrita University. The community engagement is through AmritaRITE https://t.co/EYfNZNRTAF
+1055784435470221312	realisfuni	The Real University of Isfahan	Islamic Republic of Iran	20	55	19	https://t.co/JBIu4T7wHh	بازتابی دیگر از دانشگاه اصفهان و خوابگاه‌های آن
+74447216	BTHinformation	Blekinge Tekniska Högskola, BTH	Sweden	1157	365	2373	http://t.co/5quBZE3i7b	Blekinge Institute of Technology, BTH, has a distinctive focus on IT and innovation for sustainable growth.
+776688324	Times_Levesque	William R. Levesque	Tampa, FL	1071	1784	2445	http://t.co/51EArkL6Jf	Science Writer for University of Florida Health and former Tampa Bay Times reporter.
+144489250	haledurgunn	Hale Durgun	Erdek, Türkiye	282	225	5314	None	YTÜ -
+University of Warmia and Mazury in Olsztyn 🇵🇱
+43860973	LSTMnews	LSTM	Liverpool, UK	11464	1229	5136	https://t.co/VCaEfintJF	School of Tropical Medicine - the world's first - independent - research, education and innovation - breaking the cycle of poor health and poverty since 1898
+2429611472	UV_PEAN	PEAN UV	Xalapa, Veracruz	695	889	4577	http://t.co/J4vK7ZQdwJ	PROGRAMA DE ESTUDIOS SOBRE AMÉRICA DEL NORTE DE LA UNIVERSIDAD VERACRUZANA. DOCENCIA E INVESTIGACIÓN PARA LA COMPRENSIÓN DE LAS RELACIONES EN LA REGIÓN
+23479547	FandMCollege	Franklin & Marshall	Lancaster, Pa.	8158	1097	7332	http://t.co/k6kQvqorbP	Official account of Franklin & Marshall, a leading national liberal arts college where every student counts. Tweeting #fandm, #godips, #ClaimTheName.
+732817452569141248	RobertoBurioni	Roberto Burioni	Milano, Lombardia	87195	721	5236	https://t.co/gggehnphSZ	Medico, Professore di Microbiologia e Virologia all'Università Vita-Salute San Raffaele di Milano - Responsabile scientifico Medical Facts
+373547790	CSUSM	Cal State San Marcos	San Marcos, California	9236	726	5187	https://t.co/6ZXagWGgMd	The official Twitter account of California State University San Marcos (CSUSM). Home of the @CSUSMCougars. Posts by Andrew.
+85759377	asatsuma	浅妻章如	立教大学法学部(東京、池袋)	935	306	3410	http://t.co/80Q9vCz3cp	国際租税法を勉強しています。I study international tax law. Rikkyo University, Tokyo
+71149765	EVMSedu	EVMS	Norfolk, VA | USA	3635	1730	3648	http://t.co/gX0UM949m3	Eastern Virginia Medical School | Community Focus. World Impact.
+19675017	UNC_Colorado	Univ. of Northern Colorado	Greeley, Colo.	10187	433	8443	https://t.co/iyfR4HVnW3	The University of Northern Colorado - Proud home of the #UNCBears 🐻! #GoUNCBears #MaybeYoureOneOfUs
+36395518	JacksonStateU	Jackson State U.	Jackson, MS	35857	2965	15147	https://t.co/qODHsxXEbF	Since 1877, Jackson State U. has been providing young men & women opportunities that'll empower them to succeed in an increasingly complex world. #Jackson_RYS19
+121144751	UNLitoral	UNL	Santa Fe, Argentina	15947	1776	17015	https://t.co/nyXhhmlzlP	Universidad Nacional del Litoral
+2163777667	GaryDRawnsley	Gary Rawnsley		2231	1097	8155	https://t.co/qMjQk5BDOe	Dean of Humanities & Social Sciences, University of Nottingham Ningbo China (UNNC), and Professor of Public Diplomacy
+38803531	marc7593	Marc Raymond	Seoul, South Korea	173	187	527	https://t.co/3cikJIC41C	Film scholar living and working in Seoul, South Korea since 2007. Associate Professor at Kwangwoon University, Department of Communications
+67407444	UEPGonline	UEPG	Ponta Grossa - PR	3299	51	3200	http://t.co/wpEpk9Oszh	Twitter oficial com notícias e informações da Coordenadoria de Comunicação da Universidade Estadual de Ponta Grossa (UEPG) . Contato: ascom@uepg.br
+522005341	OISTedu	OIST	Onna-son, Okinawa	1820	139	1462	https://t.co/BJza8Tpcdh	Okinawa Institute of Science and Technology Graduate University, interdisciplinary graduate school offering 5-year PhD program in Science. 
+（日本語：@OISTja）
+25056698	tennesseetech	Tennessee Tech	Cookeville, TN	12675	835	10293	https://t.co/mlutOwuSlo	#tntech is home to strong programs in engineering, music & art, arts & sciences, education, business, and agriculture & human ecology. #wingsup #WeAreTNTech
+489299277	UniMediterranea	Mediterranea RC	Reggio di Calabria	1205	75	3862	http://t.co/b7UrTDYn7N	Università degli studi Mediterranea di Reggio Calabria. Official Page.
+223201628	lluviasUCV	HIDROMETEOROLOGÍA	Venezuela	9637	3227	152867	https://t.co/mq0cjx6HIV	Departamento de Ingeniería Hidrometeorológica Universidad Central de Venezuela
+709692936	SCKY_1879	Simmons College of Kentucky	Louisville, KY	3130	2112	3220	https://t.co/UzU6aeNInZ	Simmons is the nation’s 107th designated Historically Black College and University & the only private HBCU in Kentucky.
+25263019	cal16boy	Rishi Pratim Mukherjee	New Delhi	893	420	2128	https://t.co/Wwv6KhYduT	co-founder & chief operating officer @scoopwhoop @scoopwhoopnews @scoopwhoophindi | Indian Institute of Mass Comm alumni | M.A (English), University of Calcutta
+15946440	WesternILUniv	Western IL Univ	Macomb, IL	18589	4817	19212	https://t.co/HGp3XvDSGM	Founded in 1899, Western Illinois University empowers students, faculty, and staff to lead dynamic and diverse communities. #WIU  https://t.co/iuGsgg5C0F
+952995863491592192	Barstool_UVU	Barstool Utah Valley	Orem, UT	502	448	391	https://t.co/6KxkIERsZJ	Direct affiliate of @BarstoolSports | Not affiliated with Utah Valley University| 📸:barstool_UVU| DM us content to be featured!! GO WOLVERINES BABY
+22806248	UWF	UWF	Pensacola, Florida	12384	302	10657	https://t.co/Io8EZeXV8D	The University of West Florida is a vibrant, distinctive institution of higher learning with undergraduate, graduate and research programs. #UWF
+347829246	KenyattaUni	Kenyatta University	Nairobi, Kenya	38888	1152	6639	http://t.co/Zv95sj4DXA	Offering students technologically advanced facilities, strong academic programmes and a nurturing environment in which to learn and grow.
+98495088	ASI_CSUSB	CSUSB ASI	San Bernardino, CA	2598	732	2740	https://t.co/vix4A7ehZR	The official voice for all students at California State University, San Bernardino.
+1243165982	UMG_Tweet	Università degli Studi Magna Graecia di Catanzaro	Catanzaro	406	134	2934	https://t.co/BOKPNFCBMk	Pagina ufficiale - Università degli Studi Magna Graecia di Catanzaro
+244925950	culturaula	DirCulturaULA	Merida venezuela	7760	887	22861	https://t.co/cKf6929QJj	Cuenta oficial de la Dirección de Cultura y Extensión de la Universidad de Los Andes Mérida-Venezuela
+133702819	Univ_Toulouse	Université de Toulouse	Toulouse	11608	878	2106	https://t.co/jTmj3V5Jw2	👩‍🎓👨‍🏫👩‍🔬 Compte officiel de l'Université de Toulouse.
+Actualités et événements dans l'#enseignement supérieur, la #recherche et l'#innovation. #ESR
+436477289	pu_lhr_official	Punjab University	Lahore, Pakistan	26047	4	6268	http://t.co/kViHloeduV	Established in 1882 at Lahore, the University of the Punjab is the largest and the oldest seat of higher learning in Pakistan.
+2766705176	Institut_Kunst	Institut Kunst	Basel, Switzerland	457	281	340	http://t.co/Je6u9fyobK	Fachhochschule Nordwestschweiz 
+Hochschule für Gestaltung und Kunst
+372715811	Univ_St_Etienne	Univ Saint-Etienne	Saint-Etienne	4692	806	4338	http://t.co/SqFHdYesHn	L'Université Jean Monnet est la seule université pluridisciplinaire avec santé du site Lyon-Saint-Etienne.
+#UJM #innovation #audace #agilité
+1149443815	NEFU_Int	NEFU University	Yakutsk	361	556	198	https://t.co/8HxxVPlsXJ	Are you ready for Siberian adventure?Welcome to Ammosov NEFU - Federal University in Yakutsk (Russia)!#Siberia #Yakutia  #extremecold #studyinRussia
+43362650	IslandCampus	TAMU-Corpus Christi	Corpus Christi, TX	13718	251	14856	https://t.co/TodZ7ZHvh8	The official Twitter account for Texas A&M University-Corpus Christi. #TAMUCC
+2811038306	BTU_News	BTU Cottbus-Senftenberg	Cottbus / Senftenberg	1355	1574	2306	https://t.co/XLIFaSjlI5	Brandenburgische Technische Universität Cottbus-Senftenberg // Brandenburg University of Technology #btu  #SmartCity #Energy #Biotechnology #Industry40 #btucs
+23505547	HWSColleges	HWS Colleges	Geneva, NY	5859	939	9822	https://t.co/gtM1JWdIia	Preparing Students To Lead Lives of Consequence #hwscolleges | @HWSAthletics
+1331091	nyit	NYIT	New York and Global Campuses	7116	337	7236	http://t.co/H1iCZ29N0g	The official Twitter of New York Institute of Technology (NYIT) where we are reinventing the future.
+125640115	univcadiz	Universidad de Cádiz	Cádiz, España	48991	919	11009	http://t.co/5zuDiaNoHP	+ de 20.000 estudiantes, 2.000 PDI y 850 PAS. 44 #grados, 18 dobles grados, 53 #másteres oficiales, 18 programas de #doctorado. @campusdelmar y @CEI_A3
+47196841	JustinBurrell_	Justin Burrell	Easton, PA	1496	1318	12768	https://t.co/g5ZC9XHTQX	Assistant Men's Basketball Coach at Lafayette College @LafayetteMBB
+216436927	canal13	Canal 13	Chile	2162939	108748	57907	http://t.co/Br9gOivGS6	Twitter oficial de Canal 13. Te contamos todo lo que sucede con nuestros programas y plataformas.
+3435506380	RenginFirat	Rengin Firat	Riverside, CA	151	169	115	https://t.co/Ht6f3OUDa6	Assistant Professor of Sociology at University of California, Riverside. Studies values, conflict and group boundaries.
+22294699	NEIU	NEIU	Chicago	5095	2641	12035	http://t.co/MsbJtpkdD6	The official Twitter page of Northeastern Illinois University. NEIU is a welcoming community with three Chicago locations and classes in Lake County.
+1052387519675781120	hultprize_swu	Hult Prize@Showa Women’s University	Showa Women's University	146	1142	42	https://t.co/SpnWCLtleC	''LEADING A GENERATION TO CHANGE THE WORLD'' 🌎 世界最大規模の学生ソーシャルビジネスコンテスト/学内大会で1位になったチームは、海外地域予選へ！✈️ #昭和女子大学公認アカウント #HultPrize #womenpower  ＊国際協力・女性起業イベント
+1897821920	UWLGolf	University of Wisconsin La Crosse Women’s Golf	La Crosse, WI	330	568	573	https://t.co/zCBjdohTjc	
+18721684	DickinsonCol	Dickinson College	Carlisle, PA	9492	621	8377	http://t.co/aQT6NOCeBR	We see things differently. Discover more about Dickinson, a nationally recognized liberal-arts college in Carlisle, Pa., at https://t.co/6VEFl1mkQq.
+16027051	sdsmt	SD School of Mines	Rapid City, SD	5317	670	10678	https://t.co/sBHogw0sZi	The South Dakota School of Mines & Technology offers an exceptional science and engineering education at a price families can afford.
+390455607	irizalr	RizalMR	MALAYSIA	1908	1306	13369	https://t.co/zWAinZuYyO	ALUMNI OF : SULTAN ABDUL HAMID COLLEGE, UNIVERSITI UTARA MALAYSIA
+46751066	SkidmoreCollege	Skidmore College	Saratoga Springs, NY	7554	353	12150	https://t.co/Xat9RjNekA	Educating students to be independent and creative problem-solvers. Tell us why you're #Skid4Life! | #Skidmore
+1007233334320222208	zjsu_sme	Zhejiang Gongshang University SME	Zhejiang	4	0	5	https://t.co/zUliwsDKpl	Zhejiang Gongshang University, School of Management and E-Business (Hangzhou, China)
+33571177	trinitycollege	Trinity College	Hartford, Connecticut USA	7365	654	4029	https://t.co/Jx1kGVFWR7	A highly selective liberal arts college located in Hartford, Connecticut. Share and connect using #trincoll
+108401326	kpiua	NTUU KPI	Ukraine, Kyiv	1081	20	2314	https://t.co/zq0DSt3FPZ	National Technical University of Ukraine ' Igor Sikorsky Kyiv Polytechnic Institute' - one of the largest universities in Europe
+33931693	FurmanU	Furman University	Greenville, SC	12202	95	22107	https://t.co/miOmLnrho6	The official Twitter feed of Furman University, the top private liberal arts college in South Carolina. For more university news, visit @FurmanNews.
