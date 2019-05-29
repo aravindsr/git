@@ -11,14 +11,7 @@ import pandas as pd
 
 #Twitter authentication
 #first one
-auth = tweepy.OAuthHandler("1v9IvWBjS4jw63Q7LeWQODNEb", "DJrt3ewjZbcAymRYQFo9BI3LnrirURtVUKLSker6DwSy0cjwAC")
-auth.set_access_token("29897913-bZMbgrVZYJfxiSOCvEzuvmJnyjce0kKuwMrcH7x82", "w0TLUH7OvusVaSSI0Zo2f1uVexVr2WQZv3oIjOgE48okB")
 
-"""
-#second one
-auth = tweepy.OAuthHandler("cdCKi7BzoD7zucsSZy4SCQFMF", "RCT6bE2BZjz9nsMAbwUEJLuQ4PCAOBZWRyJl7yY41GOhOTMfgG")
-auth.set_access_token("29897913-6MYocFOnUcugrZSlnkZkn98zOTdqEElxt6JdupwJV", "Xtu6dfbycxXASdggApjaT8gvNZaMgwg6uHDnaIRbvO8mV")
-"""
 
 api = tweepy.API(auth,wait_on_rate_limit=True)
 
