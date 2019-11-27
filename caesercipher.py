@@ -23,5 +23,5 @@ def encryptedindex(text):
     encr_indexes =[vocab.index(x) for x in encrypted]
     return ([torch.tensor(orig_indexes),torch.tensor(encr_indexes)])
 
-#print(encrypt('i am godda')) 
-#print(encryptedindex('i am godda')) 
+print(encrypt('i am godda')) 
+print(encryptedindex('i am godda')) 
